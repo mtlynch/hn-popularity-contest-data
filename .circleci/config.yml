@@ -10,7 +10,7 @@ jobs:
           command: ./dev-scripts/sort-domains-meta data/domains-meta.csv
   upload_to_cdn:
     docker:
-      - image: cimg/base:current
+      - image: cimg/base:stable
     steps:
       - checkout
       - run:
