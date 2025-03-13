@@ -8,6 +8,14 @@ jobs:
       - run:
           name: Check if domains-meta.csv is sorted
           command: ./dev-scripts/sort-domains-meta data/domains-meta.csv
+  check_excludes_sorting:
+    docker:
+      - image: cimg/base:stable
+    steps:
+      - checkout
+      - run:
+          name: Check if excludes.txt is sorted
+          command: ./dev-scripts/sort-excludes data/excludes.txt
   upload_to_cdn:
     docker:
       - image: cimg/base:stable
@@ -38,9 +46,11 @@ workflows:
   validate_data:
     jobs:
       - check_domains_meta_sorting
+      - check_excludes_sorting
       - upload_to_cdn:
           requires:
             - check_domains_meta_sorting
+            - check_excludes_sorting
           filters:
             branches:
               only: master
