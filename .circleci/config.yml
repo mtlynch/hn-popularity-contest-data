@@ -8,8 +8,39 @@ jobs:
       - run:
           name: Check if domains-meta.csv is sorted
           command: ./dev-scripts/sort-domains-meta data/domains-meta.csv
+  upload_to_cdn:
+    docker:
+      - image: cimg/base:current
+    steps:
+      - checkout
+      - run:
+          name: Install lftp
+          command: sudo apt-get update && sudo apt-get install -y lftp
+      - run:
+          name: Upload domains-meta.csv to Bunny CDN
+          command: |
+            LFTP_PASSWORD="${BUNNY_FTP_PASSWORD}" lftp \
+              -u "${BUNNY_FTP_USERNAME}" \
+              "${BUNNY_FTP_HOSTNAME}" \
+              --env-password \
+              -e "put -O / ./data/domains-meta.csv; \
+                  quit"
+      - run:
+          name: Purge Bunny CDN cache for domains-meta.csv
+          command: |
+            curl --request POST "https://api.bunny.net/purge?url=https://${BUNNY_CDN_PULL_ZONE}.b-cdn.net/domains-meta.csv" \
+              --header "AccessKey: ${BUNNY_API_KEY}" \
+              --write-out "%{http_code}\n" \
+              --silent \
+              --output /dev/null
 workflows:
   version: 2
   validate_data:
     jobs:
       - check_domains_meta_sorting
+      - upload_to_cdn:
+          requires:
+            - check_domains_meta_sorting
+          filters:
+            branches:
+              only: master
