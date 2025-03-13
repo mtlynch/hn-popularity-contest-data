@@ -7,11 +7,12 @@ Usage:
     sort-domain-meta <csv_file_path>
 
 Args:
-    csv_file_path: Path to the CSV file to sort (defaults to data/domains-meta.csv if not provided)
+    csv_file_path: Path to the CSV file to sort
 
 Returns:
     0 if the file was already sorted (no changes made)
     1 if the file needed sorting (changes were made)
+    2 if the file has rows with inconsistent column counts
 """
 
 import csv
@@ -25,6 +26,14 @@ def sort_domains_meta(csv_path):
         reader = csv.reader(csv_file)
         header = next(reader)
         rows = list(reader)
+
+    # Validate that each row has the same number of columns as the header
+    header_length = len(header)
+    for i, row in enumerate(rows):
+        if len(row) != header_length:
+            print(f"Error: Row {i+1} has {len(row)} columns, but header has {header_length} columns")
+            print(f"Row content: {row}")
+            return 2
 
     # Store the original rows for comparison.
     original_rows = list(rows)
@@ -45,6 +54,10 @@ def sort_domains_meta(csv_path):
     return 1
 
 if __name__ == "__main__":
+    if len(sys.argv) <= 1:
+        print("Error: CSV file path is required")
+        print("Usage: sort-domains-meta <csv_file_path>")
+        sys.exit(-1)
     csv_path = sys.argv[1]
     exit_code = sort_domains_meta(csv_path)
     sys.exit(exit_code)
