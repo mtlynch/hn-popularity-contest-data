@@ -7,7 +7,7 @@ jobs:
       - checkout
       - run:
           name: Check if domains-meta.csv is sorted
-          command:  ./dev-scripts/sort-domain-meta data/domains-meta.csv
+          command: ./dev-scripts/sort-domains-meta data/domains-meta.csv
 workflows:
   version: 2
   validate_data:
