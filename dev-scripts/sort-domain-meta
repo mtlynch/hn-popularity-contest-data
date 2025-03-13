@@ -1,0 +1,28 @@
+#!/usr/bin/env python3
+"""
+This script reads data/domains-meta.csv, sorts it by the domain column,
+and writes the sorted data back to the original file.
+"""
+
+import csv
+import os
+
+def sort_domains_meta():
+    """Read the CSV file, sort by domain, and write back to the original file."""
+    csv_path = os.path.join('data', 'domains-meta.csv')
+
+    with open(csv_path, 'r', encoding='utf-8') as csv_file:
+        reader = csv.reader(csv_file)
+        header = next(reader)
+        rows = list(reader)
+
+    # Sort the rows by the domain column (index 0)
+    sorted_rows = sorted(rows, key=lambda row: row[0].lower() if row and len(row) > 0 else '')
+
+    with open(csv_path, 'w', encoding='utf-8') as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerow(header)
+        writer.writerows(sorted_rows)
+
+if __name__ == "__main__":
+    sort_domains_meta()
