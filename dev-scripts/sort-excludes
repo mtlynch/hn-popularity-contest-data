@@ -11,9 +11,30 @@ SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 readonly SCRIPT_DIR
 cd "${SCRIPT_DIR}/.."
 
+# Check if an argument is provided
+if [ $# -eq 0 ]; then
+  echo "Error: No file path provided"
+  echo "Usage: $0 <file_path>"
+  exit 1
+fi
+
+# Define the file path to sort
+FILE_PATH="$1"
+readonly FILE_PATH
+
 TEMP_FILE=$(mktemp)
 readonly TEMP_FILE
 
-cat data/excludes.txt | sort | uniq > "${TEMP_FILE}"
+# Sort and deduplicate
+cat "${FILE_PATH}" | sort | uniq > "${TEMP_FILE}"
 
-mv "${TEMP_FILE}" data/excludes.txt
+# Compare files to see if content changed
+diff -q "${FILE_PATH}" "${TEMP_FILE}" > /dev/null
+# Store the exit code from diff (0 if files are identical, 1 if different)
+CHANGED=$?
+
+# Update the excludes file
+mv "${TEMP_FILE}" "${FILE_PATH}"
+
+# Return non-zero if sorting changed the file
+exit ${CHANGED}
