@@ -1,28 +1,50 @@
 #!/usr/bin/env python3
 """
-This script reads data/domains-meta.csv, sorts it by the domain column,
+This script reads a CSV file, sorts it by the domain column,
 and writes the sorted data back to the original file.
+
+Usage:
+    sort-domain-meta <csv_file_path>
+
+Args:
+    csv_file_path: Path to the CSV file to sort (defaults to data/domains-meta.csv if not provided)
+
+Returns:
+    0 if the file was already sorted (no changes made)
+    1 if the file needed sorting (changes were made)
 """
 
 import csv
 import os
+import sys
 
-def sort_domains_meta():
+def sort_domains_meta(csv_path):
     """Read the CSV file, sort by domain, and write back to the original file."""
-    csv_path = os.path.join('data', 'domains-meta.csv')
 
     with open(csv_path, 'r', encoding='utf-8') as csv_file:
         reader = csv.reader(csv_file)
         header = next(reader)
         rows = list(reader)
 
-    # Sort the rows by the domain column (index 0)
+    # Store the original rows for comparison.
+    original_rows = list(rows)
+
+    # Sort the rows by the domain column (index 0).
     sorted_rows = sorted(rows, key=lambda row: row[0].lower() if row and len(row) > 0 else '')
 
+    # Check if sorting made any changes
+    if original_rows == sorted_rows:
+        # No changes needed - file was already sorted.
+        return 0
+
+    # Changes were needed - file was not sorted.
     with open(csv_path, 'w', encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow(header)
         writer.writerows(sorted_rows)
+    return 1
 
 if __name__ == "__main__":
-    sort_domains_meta()
+    csv_path = sys.argv[1]
+    exit_code = sort_domains_meta(csv_path)
+    sys.exit(exit_code)

@@ -1,0 +1,15 @@
+version: 2.1
+jobs:
+  check_domains_meta_sorting:
+    docker:
+      - image: cimg/python:3.10
+    steps:
+      - checkout
+      - run:
+          name: Check if domains-meta.csv is sorted
+          command:  ./dev-scripts/sort-domain-meta data/domains-meta.csv
+workflows:
+  version: 2
+  validate_data:
+    jobs:
+      - check_domains_meta_sorting
