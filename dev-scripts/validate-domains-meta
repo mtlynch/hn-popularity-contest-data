@@ -1,0 +1,114 @@
+#!/usr/bin/env python3
+"""
+This script validates the domains-meta.csv file according to the following rules:
+- If a bio exists for a row, it is no more than MAX_BIO_LENGTH characters
+- If topics exist for a row, they cannot contain more than MAX_TOPICS_COUNT comma-separated values
+- No single topic may be longer than MAX_TOPIC_LENGTH characters
+- No topics column can be longer than MAX_TOPICS_COLUMN_LENGTH characters
+
+Usage:
+    validate-domains-meta <csv_file_path>
+
+Args:
+    csv_file_path: Path to the CSV file to validate
+
+Returns:
+    0 if the file passes all validation checks
+    1 if the file has validation errors
+"""
+
+import csv
+import os
+import sys
+
+# Define constants for validation limits
+MAX_BIO_LENGTH = 55
+MAX_TOPICS_COUNT = 3
+MAX_TOPIC_LENGTH = 30
+MAX_TOPICS_COLUMN_LENGTH = 65
+
+def validate_domains_meta(csv_path):
+    """Read the CSV file and validate according to the rules."""
+    validation_errors = []
+
+    with open(csv_path, 'r', encoding='utf-8') as csv_file:
+        reader = csv.reader(csv_file)
+        header = next(reader)
+
+        # Find the indices for bio and topics columns
+        try:
+            bio_index = header.index('bio')
+            topics_index = header.index('topics')
+        except ValueError as e:
+            print(f"Error: Required column not found in header: {e}")
+            return 1
+
+        # Assume domain is always at index 0
+        domain_index = 0
+
+        # Validate each row
+        for i, row in enumerate(reader, start=1):
+            # Get the line number and domain for error reporting
+            line_num = i + 1  # +1 for header row
+            file_line = f"{csv_path}:{line_num}"
+
+            # Skip rows that don't have enough columns
+            if len(row) <= max(bio_index, topics_index):
+                domain = row[domain_index] if row else f"Row {i}"
+                validation_errors.append(f"{file_line} - {domain}: Not enough columns")
+                continue
+
+            domain = row[domain_index]
+
+            # Validate bio length
+            bio = row[bio_index]
+            if bio and len(bio) > MAX_BIO_LENGTH:
+                validation_errors.append(f"{file_line} - {domain}: Bio exceeds {MAX_BIO_LENGTH} characters ({len(bio)}): '{bio}'")
+
+            # Validate topics
+            topics = row[topics_index]
+            if topics:
+                # Check total topics column length
+                if len(topics) > MAX_TOPICS_COLUMN_LENGTH:
+                    validation_errors.append(f"{file_line} - {domain}: Topics column exceeds {MAX_TOPICS_COLUMN_LENGTH} characters ({len(topics)}): '{topics}'")
+
+                # Check for proper comma-space formatting
+                if ',' in topics:
+                    import re
+                    # This pattern matches a comma not followed by exactly one space
+                    if re.search(r',(?! |$)|, {2,}', topics):
+                        validation_errors.append(f"{file_line} - {domain}: Topics must be separated by a single comma followed by a single space: '{topics}'")
+
+                # Check number of topics
+                topic_list = [t.strip() for t in topics.split(',')]
+                if len(topic_list) > MAX_TOPICS_COUNT:
+                    validation_errors.append(f"{file_line} - {domain}: More than {MAX_TOPICS_COUNT} topics ({len(topic_list)}): '{topics}'")
+
+                # Check individual topic length
+                for topic in topic_list:
+                    if len(topic) > MAX_TOPIC_LENGTH:
+                        validation_errors.append(f"{file_line} - {domain}: Topic exceeds {MAX_TOPIC_LENGTH} characters ({len(topic)}): '{topic}'")
+
+    # Report validation results
+    if validation_errors:
+        print(f"Found {len(validation_errors)} validation errors:")
+        for error in validation_errors:
+            print(f"  - {error}")
+        return 1
+    else:
+        print("Validation successful! No errors found.")
+        return 0
+
+if __name__ == "__main__":
+    if len(sys.argv) <= 1:
+        print("Error: CSV file path is required")
+        print("Usage: validate-domains-meta <csv_file_path>")
+        sys.exit(-1)
+
+    csv_path = sys.argv[1]
+    if not os.path.exists(csv_path):
+        print(f"Error: File not found: {csv_path}")
+        sys.exit(-1)
+
+    exit_code = validate_domains_meta(csv_path)
+    sys.exit(exit_code)
