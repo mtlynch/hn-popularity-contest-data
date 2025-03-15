@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 This script validates the domains-meta.csv file according to the following rules:
-- If a bio exists for a row, it is no more than MAX_BIO_LENGTH (55) characters
-- If topics exist for a row, they cannot contain more than MAX_TOPICS_COUNT (3) comma-separated values
-- No single topic may be longer than MAX_TOPIC_LENGTH (20) characters
-- No topics column can be longer than MAX_TOPICS_COLUMN_LENGTH (55) characters
+- If a bio exists for a row, it is no more than MAX_BIO_LENGTH characters
+- If topics exist for a row, they cannot contain more than MAX_TOPICS_COUNT comma-separated values
+- No single topic may be longer than MAX_TOPIC_LENGTH characters
+- No topics column can be longer than MAX_TOPICS_COLUMN_LENGTH characters
 
 Usage:
     validate-domains-meta <csv_file_path>
