@@ -60,6 +60,9 @@ def validate_domains_meta(csv_path):
 
             domain = row[domain_index]
 
+            if domain.endswith('/'):
+                validation_errors.append(f"{file_line} - {domain}: Domain can't end in slash")
+
             # Validate bio length
             bio = row[bio_index]
             if bio and len(bio) > MAX_BIO_LENGTH:
