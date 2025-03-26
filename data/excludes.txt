@@ -937,7 +937,6 @@ retro.social
 revolt.chat
 rfc-editor.org
 riffusion.com
-righto.com
 roadandtrack.com
 rockpapershotgun.com
 rollingstone.com
