@@ -1183,7 +1183,6 @@ usenix.org
 userinyerface.com
 usni.org
 uspirg.org
-utcc.utoronto.ca
 uxdesign.cc
 ux.stackexchange.com
 v8.dev
