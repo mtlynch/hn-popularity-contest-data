@@ -135,7 +135,6 @@ blog.okcupid.com
 blog.openai.com
 blog.openstreetmap.org
 blog.parse.com
-blog.plover.com
 blog.priceonomics.com
 blog.pypi.org
 blog.qt.io
