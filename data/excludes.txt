@@ -352,7 +352,6 @@ doom-captcha.vercel.app
 dpreview.com
 drdobbs.com
 dropbox.tech
-dtrace.org
 duckdb.org
 duckduckgo.com
 e360.yale.edu
