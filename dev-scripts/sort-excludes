@@ -29,9 +29,11 @@ readonly TEMP_FILE
 cat "${FILE_PATH}" | sort | uniq > "${TEMP_FILE}"
 
 # Compare files to see if content changed
-diff -q "${FILE_PATH}" "${TEMP_FILE}" > /dev/null
-# Store the exit code from diff (0 if files are identical, 1 if different)
-CHANGED=$?
+if diff -q "${FILE_PATH}" "${TEMP_FILE}" > /dev/null; then
+  CHANGED=0
+else
+  CHANGED=1
+fi
 
 # Update the excludes file
 mv "${TEMP_FILE}" "${FILE_PATH}"
