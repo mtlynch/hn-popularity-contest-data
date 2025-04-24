@@ -57,6 +57,7 @@ arstechnica.co.uk
 article.gmane.org
 asahilinux.org
 asia.nikkei.com
+asimov.press
 asteriskmag.com
 astral.sh
 atlasobscura.com
