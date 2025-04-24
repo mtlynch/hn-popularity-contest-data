@@ -306,6 +306,7 @@ bun.sh
 businessinsider.com.au
 businessweek.com
 businesswire.com
+busy.bar
 buzzfeednews.com
 c2.com
 cacm.acm.org
@@ -1187,6 +1188,7 @@ telegram.org
 terminal.shop
 tesla.com
 teslamotors.com
+testing.gimp.org
 texasmonthly.com
 text.npr.org
 theage.com.au
