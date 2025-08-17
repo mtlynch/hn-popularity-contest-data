@@ -438,6 +438,7 @@ distrowatch.com
 djangoproject.com
 dl.acm.org
 dlang.org
+dmarcchecker.app
 dm.hn
 docker.com
 docs.python.org
@@ -897,6 +898,7 @@ on.ft.com
 onlinelibrary.wiley.com
 online.wsj.com
 openai.com
+openai.github.io
 openbsd.org
 openculture.com
 openjdk.org
@@ -1158,6 +1160,7 @@ studyfinds.org
 sublimetext.com
 supabase.com
 supabase.io
+supernuclear.substack.com
 superset.apache.org
 superuser.com
 support.apple.com
