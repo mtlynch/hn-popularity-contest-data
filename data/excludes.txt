@@ -320,6 +320,7 @@ candyjapan.com
 ccc.de
 cell.com
 cen.acs.org
+cerebras.ai
 changelog.com
 channel9.msdn.com
 chaos.social
@@ -384,6 +385,7 @@ cs.utexas.edu
 csvbase.com
 ctvnews.ca
 currentaffairs.org
+cursor.com
 cyberlaw.stanford.edu
 cybernews.com
 dailydot.com
@@ -450,6 +452,7 @@ doom-captcha.vercel.app
 dpreview.com
 drdobbs.com
 dropbox.tech
+dropsitenews.com
 duckdb.org
 duckduckgo.com
 e360.yale.edu
@@ -457,6 +460,7 @@ earthly.dev
 easydns.com
 eater.com
 ec.europa.eu
+echarts.apache.org
 eclecticlight.co
 edgedb.com
 edge.org
@@ -513,6 +517,7 @@ ferrous-systems.com
 feynmanlectures.caltech.edu
 ffmpegbyexample.com
 ffmpeg.org
+fightchatcontrol.eu
 figma.com
 files.getdropbox.com
 finance.fortune.cnn.com
@@ -567,6 +572,7 @@ git.kernel.org
 gitlab.com
 gitlab.freedesktop.org
 giza.mused.org
+global.honda
 globalnews.ca
 gmailblog.blogspot.com
 gnome.org
