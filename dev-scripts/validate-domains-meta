@@ -31,6 +31,24 @@ def validate_domains_meta(csv_path):
     """Read the CSV file and validate according to the rules."""
     validation_errors = []
 
+    # Define the expected header
+    expected_header = ['domain', 'author name', 'bio', 'topics']
+
+    # First pass: Validate header appears correctly on first line and nowhere else
+    with open(csv_path, 'r', encoding='utf-8') as csv_file:
+        reader = csv.reader(csv_file)
+
+        # Check first line is the expected header
+        first_line = next(reader)
+        if first_line != expected_header:
+            validation_errors.append(f"{csv_path}:1 - Invalid header. Expected: {','.join(expected_header)}, Got: {','.join(first_line)}")
+
+        # Check for duplicate headers in the rest of the file
+        for line_num, row in enumerate(reader, start=2):
+            if row == expected_header:
+                validation_errors.append(f"{csv_path}:{line_num} - Duplicate header line found")
+
+    # Second pass: Validate content
     with open(csv_path, 'r', encoding='utf-8') as csv_file:
         reader = csv.reader(csv_file)
         header = next(reader)
