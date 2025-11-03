@@ -338,6 +338,7 @@ city-journal.org
 citylab.com
 cjr.org
 cleantechnica.com
+clickhouse.com
 clicks.tech
 clojure.org
 cloudflarestatus.com
@@ -431,6 +432,7 @@ developer.yahoo.net
 dev.to
 digest.bps.org.uk
 digiday.com
+digitalcourage.social
 digitalocean.com
 dignitymemorial.com
 dillo-browser.github.io
@@ -619,6 +621,7 @@ hashicorp.com
 haskell.org
 hazyresearch.stanford.edu
 hbr.org
+health.aws.amazon.com
 heartbleed.com
 heise.de
 hellgatenyc.com
@@ -695,11 +698,13 @@ jsfiddle.net
 jsoncanvas.org
 julialang.org
 kagi.com
+keepandroidopen.org
 keybase.io
 khanacademy.org
 kidpix.app
 kindlemodding.org
 knowablemagazine.org
+koreajoongangdaily.joins.com
 kotaku.com
 kottke.org
 kqed.org
@@ -782,6 +787,7 @@ med.stanford.edu
 melmagazine.com
 mentalfloss.com
 mercurynews.com
+messenger.abeto.co
 meta.com
 metaphysic.ai
 meta.stackexchange.com
@@ -1001,6 +1007,7 @@ pv-magazine.com
 pyinfra.com
 python.org
 pytorch.org
+qualcomm.com
 qualys.com
 quantamagazine.org
 qubes-os.org
@@ -1341,6 +1348,7 @@ winehq.org
 wired.co.uk
 workout.lol
 worksinprogress.co
+worksinprogress.news
 workspaceupdates.googleblog.com
 worldsensorium.com
 writing.exchange
