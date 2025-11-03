@@ -605,6 +605,7 @@ grist.org
 groklaw.net
 groq.com
 gsb.stanford.edu
+guru3d.com
 gutenberg.org
 haaretz.com
 habr.com
