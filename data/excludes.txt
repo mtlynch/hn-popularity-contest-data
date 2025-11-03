@@ -350,6 +350,7 @@ cockroachlabs.com
 codeberg.org
 code.facebook.com
 code.fb.com
+code.ffmpeg.org
 codepen.io
 coderwall.com
 code.visualstudio.com
@@ -1354,6 +1355,7 @@ workspaceupdates.googleblog.com
 worldsensorium.com
 writing.exchange
 www3.nhk.or.jp
+xcancel.com
 x.com
 xconomy.com
 xda-developers.com
