@@ -14,12 +14,14 @@ abcnews4.com
 aboutamazon.com
 about.fb.com
 about.gitlab.com
+about.netflix.com
 about.sourcegraph.com
 academic.oup.com
 aclu.org
 act.eff.org
 addons.mozilla.org
 adguard.com
+adguard-dns.io
 advances.sciencemag.org
 adventofcode.com
 aeon.co
@@ -44,6 +46,7 @@ androidauthority.com
 android-developers.blogspot.com
 android-developers.googleblog.com
 androidpolice.com
+annas-archive.li
 annas-archive.org
 annas-blog.org
 answer.ai
@@ -305,6 +308,7 @@ bugs.debian.org
 bugs.launchpad.net
 bugzilla.mozilla.org
 buildkite.com
+bun.com
 bun.sh
 businessinsider.com.au
 businessweek.com
@@ -454,6 +458,7 @@ dogbunnypuzzle.com
 dolphin-emu.org
 dolthub.com
 doom-captcha.vercel.app
+dosaygo-studio.github.io
 dpreview.com
 drdobbs.com
 dropbox.tech
@@ -598,6 +603,7 @@ googleresearch.blogspot.com
 gothamist.com
 gq.com
 grafana.com
+grapheneos.social
 graphics.reuters.com
 graphite.dev
 gravitational.com
@@ -658,6 +664,7 @@ iism.org
 ij.org
 imgur.com
 immersivemath.com
+immich.app
 inc.com
 increment.com
 indiatoday.in
@@ -692,6 +699,7 @@ jamanetwork.com
 japantimes.co.jp
 jetbrains.com
 jitsi.org
+jmail.world
 joindiaspora.com
 joinpeertube.org
 journals.plos.org
@@ -1073,6 +1081,7 @@ sciam.com
 sciencealert.com
 scienceblogs.com
 sciencebulletin.org
+scienceclock.com
 sciencenews.org
 science.org
 science.sciencemag.org
@@ -1347,6 +1356,7 @@ wikileaks.org
 wikimediafoundation.org
 wikitok.vercel.app
 windowscentral.com
+windowslatest.com
 winehq.org
 wired.co.uk
 workout.lol
