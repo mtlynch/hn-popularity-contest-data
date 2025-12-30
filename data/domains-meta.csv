@@ -33,6 +33,7 @@ andreinc.net,Andrei Nicusan,Developer and writer,"software engineering, personal
 andrewkchan.dev,Andrew Chan,Software developer and blogger,"programming, technology"
 andrewkelley.me,Andrew Kelley,Software developer and creator of Zig,"programming, Zig, software development"
 andysblog.uk,Andy,Writer and tech enthusiast,"technology, personal essays, reviews"
+anildash.com,Anil Dash,Technologist and writer,"culture, technology, policy"
 anishathalye.com,Anish Athalye,Computer scientist,"machine learning, security, software engineering"
 ansel.photos,Aurelien Pierre,Photographer and creator of Ansel,
 anthonyhobday.com,Anthony Hobday,Designer and writer,"design, user interfaces, writing"
@@ -68,7 +69,7 @@ ben-evans.com,Benedict Evans,Technology analyst and consultant,"technology, mobi
 ben.page,Ben Kuhn,Software engineer and blogger,"software development, personal projects, technology"
 benhoyt.com,Ben Hoyt,Software developer,"software development, Python, Go language"
 benkuhn.net,Ben Kuhn,Software developer and effective altruist,"effective altruism, software development, technology"
-bernsteinbear.com,Max Bernstein,,
+bernsteinbear.com,Max Bernstein,Programmer and researcher,"compilers, programming languages, implementation"
 berthub.eu,Bert Hubert,Software developer and entrepreneur,"DNS, software development, technology"
 bessey.dev,Matt Bessey,Software developer,
 bessstillman.substack.com,Bess Stillman,Writer and essayist,"culture, personal essays, literature"
@@ -102,6 +103,7 @@ blog.jim-nielsen.com,Jim Nielsen,Web developer and designer,"web development, de
 blog.nuclearsecrecy.com,Alex Wellerstein,Historian of science,"nuclear history, policy, technology"
 blog.paavo.me,Paavo Huhtala,,
 blog.pinboard.in,Maciej Cegłowski,Founder of Pinboard and writer,"technology, privacy, internet culture"
+blog.pixelmelt.dev,Ciarán,Security researcher and developer,"reverse engineering, obfuscation, javascript"
 blog.ploeh.dk,Mark Seemann,Software developer and author,"software development, functional programming, personal projects"
 blog.plover.com,Mark Dominus,Software developer and amateur mathematician,"languages, programming, books"
 blog.regehr.org,John Regehr,Computer science professor,"compilers, software engineering, programming languages"
@@ -137,6 +139,7 @@ calpaterson.com,Cal Paterson,Software developer and writer,"software development
 caseyhandmer.wordpress.com,Casey Handmer,Physicist and space enthusiast,"space exploration, technology, engineering"
 catandgirl.com,Dorothy Gambrell,Cartoonist and writer,"comics, personal thoughts, humor"
 catb.org/~esr,Eric S. Raymond,Open-source advocate and author,"open-source, software development, technology"
+catherinejue.com,Catherine Jue,Co-founder of Kernel,"startups, AI infrastructure, software"
 catonmat.net,Peteris Krumins,Developer and entrepreneur,"programming, productivity, technology"
 catskull.net,Anonymous,,"html, css"
 cdixon.org,Chris Dixon,Investor and general partner at Andreessen Horowitz,"technology, startups, investing"
@@ -207,6 +210,7 @@ dcurt.is,Dustin Curtis,"Designer, writer, and entrepreneur","design, technology,
 deepsouthventures.com,Peter Askew,Domain name enthusiast,"entrepreneurship, domain names, onions"
 defmacro.org,Slava Akhmechet,Developer and Co-founder of RethinkDB,"entrepreneurship, open-source"
 deprocrastination.co,Niklas Goeke,Writer and blogger,"productivity, personal development, writing"
+derekthompson.org,Derek Thompson,Journalist and author,"culture, technology, economics"
 destroyallsoftware.com,Gary Bernhardt,Software developer and educator,"software development, testing, programming languages"
 devblogs.microsoft.com/oldnewthing,Raymond Chen,Veteran Microsoft engineer,"Windows development, programming, software history"
 devever.net/~hl,Hugo Landau,Software developer and open-source advocate,"open-source, software development, cryptography"
@@ -227,6 +231,7 @@ drewdevault.com,Drew DeVault,Developer and open-source advocate,"open-source, so
 dropofahat.zone,James Steinberg,,"hat dropping, computer vision"
 dubroy.com,Patrick Dubroy,Software engineer and blogger,"programming, technology, personal projects"
 dunfield.themindfactory.com,Dave Dunfield,Systems engineer,
+dwarkesh.com,Dwarkesh Patel,Host of the Dwarkesh Podcast,"AI, technology, long-form interviews"
 dynomight.net,Anonymous,,"science, existential angst"
 dzombak.com,David Zombak,Software engineer and writer,"software engineering, personal projects, technology"
 eatonphil.com,Phil Eaton,Software developer and writer,"distributed systems, databases, go"
@@ -240,6 +245,7 @@ eliseomartelli.it,Eliseo Martelli,Developer and designer,"programming, design, t
 ellie.wtf,Ellie Huxtable,Software Engineer and founder of Atuin,
 eloquentjavascript.net,Marijn Haverbeke,Developer and author,"JavaScript, programming"
 engraved.blog,Jonas Degrave,Research Scientist at Deepmind,"machine learning, llms"
+entropicthoughts.com,Chris,Quant and systems thinker,"software, systems thinking, management"
 ericdraken.com,Eric Draken,Developer,"software development, technology"
 ericmigi.com,Eric Migicovsky,Inventor and founder of Pebble and Beeper,"pebble, hardware, smartwatches"
 erikbern.com,Erik Bernhardsson,Software developer and entrepreneur,"machine learning, data science, software development"
@@ -298,6 +304,7 @@ honest-broker.com,Ted Gioia,Cultural critic,"music, books, culture"
 htmlhell.dev,Manuel Matuzović,,
 httptoolkit.com,Tim Perry,Author of HTTP Toolkit,"http protocol, standards, TLS"
 hugo.blog,Hugo Barra,,
+hugotunius.se,Hugo Tunius,Software developer,"iOS, mobile development, technology"
 humbledmba.com,Jason Freedman,Founder of 42Floors and partner at Peak State Ventures,
 hypercritical.co,John Siracusa,Writer and podcaster,"technology, Apple, media criticism"
 ianbicking.org,Ian Bicking,Software developer and open source advocate,"programming, open source, software development"
@@ -327,6 +334,7 @@ jamesbvaughan.com,James Vaughan,Programmer,"programming, personal projects"
 jamesg.blog,James G.,Software developer and blogger,"programming, technology, personal projects"
 jameshaydon.github.io,James Haydon,,
 jameshfisher.com,James Fisher,Software engineer and writer,"software development, security, essays"
+jayd.ml,Jayden Milne,Software developer and blogger,"programming, personal projects, web development"
 jaykmody.com,Jay K Mody,Software engineer,"software engineering, security, programming"
 jazco.dev,Jaz Singh,Developer and tech enthusiast,"programming, technology, personal projects"
 jeanhsu.substack.com,Jean Hsu,Leadership coach and writer,"leadership, personal development, technology"
@@ -340,6 +348,7 @@ jessfraz.com,Jessie Frazelle,Docker developer and co-founder of Oxide,"container
 jgc.org,John Graham-Cumming,CTO of Cloudflare,"programming, technology, history"
 jimmyhmiller.github.io,Jimmy Miller,Software developer and blogger,"software development, software horror stories"
 jlongster.com,James Long,Software developer and creator of Actual,"software development, JavaScript, personal finance"
+joanwestenberg.com,JA Westenberg,Writer and technologist,"startups, culture, philosophy"
 joearms.github.io,Joe Armstrong,Co-creator of Erlang,"programming, Erlang, software development"
 joelonsoftware.com,Joel Spolsky,Software developer and entrepreneur,"software development, startups, project management"
 joeyh.name,Joey Hess,Software developer and Debian contributor,"open source, software development, Debian"
@@ -403,6 +412,7 @@ marco.org,Marco Arment,Developer and podcaster,"technology, software development
 marginalia.nu,Viktor Lofgren,Founder of Marginalia search engine,"web development, design, technology"
 martijnhols.nl,Martijn Hols,Freelance React developer,"React, JavaScript, web development"
 martin.kleppmann.com,Martin Kleppmann,Software developer and author,"distributed systems, data engineering, software development"
+martinalderson.com,Martin Alderson,Writer and software engineer,"web development, AI, performance"
 martinfowler.com,Martin Fowler,Software development expert,"software architecture, refactoring, agile development"
 maskray.me,Fangrui Song,Software developer and blogger,"software development, LLVM, personal projects"
 masteringemacs.org,Mickey Petersen,Emacs enthusiast and writer,"Emacs, text editors, productivity"
@@ -418,15 +428,18 @@ mattlakeman.org,Matt Lakeman,Writer and researcher,"self-improvement, productivi
 mattsayar.com,Matt Sayar,Developer and writer,"programming, technology, personal essays"
 mattstoller.substack.com,Matt Stoller,Author and antitrust policy expert,"antitrust, politics, economy"
 mattwarren.org,Matt Warren,Software developer and performance enthusiast,".NET, performance, programming"
+maurycyz.com,Maurycy Z.,Electronics and software enthusiast,"electronics, programming, photography"
 maxread.substack.com,Max Read,Writer and editor,"media, technology, culture"
 mayerowitz.io,Antoine Mayerowitz,Economist and data scientist,"data, interactivity, art"
 mbuffett.com,Marcus Buffett,Indie developer,"chess, entrepreneurship"
 mcyoung.xyz,Miguel Young de la Sota,,
 mertbulan.com,Mert Bulan,Software engineer,"programming, technology, personal projects"
 mfkl.github.io,Martin Finkel,VLC developer,"vlc, .net"
+micahflee.com,Micah Lee,InfoSec engineer and journalist,"security, privacy, hacking"
 micahlerner.com,Micah Lerner,Software engineer and writer,"software development, technology"
 michael.stapelberg.ch,Michael Stapelberg,Software developer,"software development, Linux, open source"
 michaelgeist.ca,Michael Geist,Law professor and digital rights advocate,"technology law, digital rights, privacy"
+miguelgrinberg.com,Miguel Grinberg,Software engineer and author,"Python, Flask, web development"
 minimaxir.com,Max Woolf,Data scientist and software developer,"data science, machine learning, software development"
 mitchellh.com,Mitchell Hashimoto,Co-founder of HashiCorp,"infrastructure, automation, open source"
 mitxela.com,Anonymous,Electronics enthusiast and maker,"electronics, DIY, projects"
@@ -443,6 +456,7 @@ nedbatchelder.com,Ned Batchelder,Software developer and Python enthusiast,"Pytho
 nee.lv,Andris Reinman,Software developer and blogger,"programming, software development, technology"
 neelc.org,Neel Chauhan,Developer and writer,"open source, software engineering, personal projects"
 nelhage.com,Nelson Elhage,Engineer and researcher,"machine learning, performance, testing"
+nesbitt.io,Andrew Nesbitt,Software engineer and researcher,"open source, package management, data"
 netmeister.org,Jan Schaumann,Engineer and writer,"networking, security, technology"
 neugierig.org,Mike West,Web standards advocate,"web security, privacy, standards"
 newsletter.mollywhite.net,Molly White,Software engineer and writer,"cryptocurrency, technology, web3"
@@ -488,6 +502,7 @@ peabee.substack.com,Pea Bee,Software developer and researcher,"privacy, india, m
 penny-arcade.com,Michael Krahulik and Jerry Holkins,Authors and illustrators,"gaming, comics, culture"
 perell.com,David Perell,Writer and educator,"writing, education, technology"
 philip.greenspun.com,Philip Greenspun,MIT professor and photographer,"photography, technology, aviation"
+philiplaine.com,Philip Laine,Software developer,"software development, cloud infrastructure"
 phoboslab.org,Dominic Szablewski,Game developer and software engineer,"game development, software development, web technologies"
 pippinbarr.com,Pippin Barr,Game designer and academic,"game design, art, experimental games"
 platformer.news,Casey Newton,Independent tech journalist,
@@ -513,6 +528,7 @@ rachelbythebay.com,Rachel Kroll,Infrastructure engineer,"software engineering, p
 raganwald.com,Reginald Braithwaite,Software developer and author,"programming, software development, technology"
 raganwald.posterous.com,Reginald Braithwaite,Software developer and author,"software development, functional programming, JavaScript"
 rahulilango.com,Rahul Ilango,Software developer and blogger,"programming, technology, personal projects"
+rakhim.exotext.com,Rakhim Davletkaliyev,Staff engineer and founder of Exotext,"programming, semantic web, technology"
 randomascii.wordpress.com,Bruce Dawson,Software developer,"programming, debugging, performance"
 randsinrepose.com,Michael Lopp,Engineering manager and author,"management, leadership, technology"
 raphlinus.github.io,Raph Levien,Software developer and font designer,"software development, typography, Rust programming"
@@ -621,6 +637,7 @@ timsh.org,Tim Sh,Product manager and ex-CTO,"programming, technology, personal t
 tintin.dlazaro.ca,David Lazaro,Developer and tech enthusiast,"programming, technology, personal projects"
 tinyprojects.dev,Niklas Elmqvist,Software developer and professor,"software development, programming, personal projects"
 tirania.org,Miguel de Icaza,Software developer and open source advocate,"open source, software development, technology"
+tomrenner.com,Tom Renner,Generalist developer and team lead,"software development, ethical tech"
 tonsky.me,Nikita Prokopov,Developer and designer,"software development, design, typography"
 tontinton.com,Tony Solomonik,,
 tonybaloney.github.io,Anthony Shaw,Software developer at Microsoft,
@@ -653,7 +670,7 @@ walzr.com,Riley Walz,Blogger and digital performance artist,"public experiments,
 waxy.org,Andy Baio,Writer and technologist,"technology, culture, internet"
 weeks.ginatrapani.org,Gina Trapani,Writer and developer,"productivity, technology, personal life"
 whattofix.com,Daniel Markham,,
-wheresyoured.at,Ed Zitron,CEO of EZPR,
+wheresyoured.at,Ed Zitron,CEO of EZPR,"tech industry, AI, media criticism"
 whyevolutionistrue.com,Jerry Coyne,Professor and author,"evolution, biology, science"
 willempennings.nl,Willem Pennings,Engineer and inventor,"engineering, DIY projects"
 windytan.com,Salli Anttonen,Software developer and radio enthusiast,"radio technology, programming, software development"
