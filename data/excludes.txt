@@ -46,6 +46,7 @@ androidauthority.com
 android-developers.blogspot.com
 android-developers.googleblog.com
 androidpolice.com
+animationobsessive.substack.com
 annas-archive.li
 annas-archive.org
 annas-blog.org
