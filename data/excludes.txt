@@ -436,6 +436,7 @@ developer.nvidia.com
 developers.facebook.com
 developers.googleblog.com
 developers.redhat.com
+developer.yahoo.com
 developer.yahoo.net
 dev.to
 digest.bps.org.uk
@@ -548,6 +549,7 @@ fosdem.org
 fosstodon.org
 foto-webcam.eu
 foundation.mozilla.org
+fourmilab.ch
 foxbusiness.com
 frame.work
 freebsd.org
@@ -567,6 +569,7 @@ fy.blackhats.net.au
 gamasutra.com
 gamedeveloper.com
 gamespot.com
+gamesradar.com
 gcc.gnu.org
 geek.com
 geekwire.com
@@ -602,6 +605,7 @@ googleonlinesecurity.blogspot.com
 google-opensource.blogspot.com
 googleprojectzero.blogspot.com
 googleresearch.blogspot.com
+googlesystem.blogspot.com
 gothamist.com
 gq.com
 grafana.com
@@ -637,6 +641,7 @@ heartbleed.com
 heise.de
 hellgatenyc.com
 helpx.adobe.com
+heroku.com
 hetzner.com
 heynote.com
 highscalability.com
@@ -682,6 +687,7 @@ inkandswitch.com
 inkscape.org
 inputmag.com
 insideevs.com
+insidefacebook.com
 insideprecisionmedicine.com
 instagram-engineering.tumblr.com
 interestingengineering.com
@@ -943,6 +949,7 @@ operating-system-in-1000-lines.vercel.app
 opinionator.blogs.nytimes.com
 oregonlive.com
 oreilly.com
+oreillynet.com
 os2museum.com
 osnews.com
 ourworldindata.org
@@ -991,6 +998,7 @@ popsci.com
 popularmechanics.com
 portfolio.com
 portswigger.net
+post-gazette.com
 postgresql.org
 posthog.com
 pragprog.com
@@ -1255,8 +1263,10 @@ thenation.com
 thenewatlantis.com
 thenewstack.io
 thenextweb.com
+theonion.com
 theoutline.com
 theparisreview.org
+thepiratebay.org
 thepiratebay.se
 thereader.mitpress.mit.edu
 therecord.media
