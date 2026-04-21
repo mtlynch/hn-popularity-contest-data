@@ -136,6 +136,7 @@ blog.cloudflare.com
 blog.clubhouse.com
 blog.codeclimate.com
 blog.coinbase.com
+blog.computationalcomplexity.org
 blog.couchdb.org
 blog.coursera.org
 blog.data.gov.sg
@@ -344,6 +345,7 @@ citusdata.com
 city-journal.org
 citylab.com
 cjr.org
+claude.com
 cleantechnica.com
 clickhouse.com
 clicks.tech
@@ -354,6 +356,7 @@ cloudplatform.googleblog.com
 cnx-software.com
 cockroachlabs.com
 codeberg.org
+code.claude.com
 code.facebook.com
 code.fb.com
 code.ffmpeg.org
@@ -496,6 +499,7 @@ english.stackexchange.com
 eng.lyft.com
 eng.uber.com
 entrepreneur.venturebeat.com
+environment.ec.europa.eu
 eos.org
 eprint.iacr.org
 equinox.space
@@ -640,6 +644,7 @@ health.aws.amazon.com
 heartbleed.com
 heise.de
 hellgatenyc.com
+help.openai.com
 helpx.adobe.com
 heroku.com
 hetzner.com
@@ -676,6 +681,7 @@ inc.com
 increment.com
 indiatoday.in
 indiehackers.com
+indieweb.org
 influxdata.com
 influxdb.com
 infobip.com
@@ -781,6 +787,7 @@ mail.openjdk.java.net
 mail.python.org
 mainichi.jp
 makezine.com
+malus.sh
 marc.info
 marginalrevolution.com
 marker.medium.com
@@ -789,6 +796,7 @@ marketwatch.com
 mastodon.archive.org
 mastodon.gamedev.place
 mastodon.social
+mastodon.world
 matasano.com
 math.cmu.edu
 mathoverflow.net
@@ -825,6 +833,7 @@ mobile.nytimes.com
 mobile.reuters.com
 modernfarmer.com
 modular.com
+moltbook.com
 mondaynote.com
 money.cnn.com
 monodraw.helftone.com
@@ -834,6 +843,7 @@ mosaicscience.com
 motherboard.vice.com
 motherduck.com
 motherjones.com
+motorolanews.com
 moz.com
 mozilla.org
 mpv.io
@@ -899,6 +909,7 @@ nodejs.org
 noemamag.com
 noisypixel.net
 non.io
+notdivided.org
 notebookcheck.net
 notepad-plus-plus.org
 notion.so
@@ -1008,6 +1019,7 @@ privacyguides.org
 privacyinternational.org
 privateinternetaccess.com
 programmers.stackexchange.com
+promptarmor.com
 propublica.org
 prospectmagazine.co.uk
 prospect.org
@@ -1035,6 +1047,7 @@ qubes-os.org
 questdb.io
 queue.acm.org
 quillette.com
+qwen.ai
 qwenlm.github.io
 qz.com
 rackspace.com
@@ -1079,6 +1092,7 @@ rootsofprogress.org
 royalsociety.org
 royalsocietypublishing.org
 ruby-lang.org
+saigoneer.com
 salon.com
 sapiens.org
 savedotorg.org
@@ -1203,6 +1217,7 @@ support.apple.com
 support.microsoft.com
 support.mozilla.org
 surgehq.ai
+svd.se
 svelte.dev
 swift.org
 swissinfo.ch
@@ -1287,6 +1302,7 @@ threema.ch
 ticotimes.net
 tigerbeetle.com
 timesofindia.indiatimes.com
+timesofisrael.com
 timesonline.co.uk
 today.duke.edu
 together.ai
@@ -1300,6 +1316,7 @@ touchgrass.now
 towardsdatascience.com
 tradingeconomics.com
 tradingview.com
+translate.kagi.com
 triplebyte.com
 tuta.com
 tutanota.com
