@@ -27,6 +27,9 @@ adventofcode.com
 aeon.co
 afterbabel.com
 aftermath.site
+agelesslinux.org
+agent-safehouse.dev
+age-verifier.kibty.town
 ai.facebook.com
 ai.googleblog.com
 ai.google.dev
@@ -34,19 +37,23 @@ aikido.dev
 ai.meta.com
 airbnb.com
 airgradient.com
+aisle.com
 alistapart.com
 aljazeera.com
 allthingsd.com
+alqst.org
 amazon.science
 americanaffairsjournal.org
 americanscientist.org
 ams.org
 anandtech.com
+anchor.host
 androidauthority.com
 android-developers.blogspot.com
 android-developers.googleblog.com
 androidpolice.com
 animationobsessive.substack.com
+annas-archive.gl
 annas-archive.li
 annas-archive.org
 annas-blog.org
@@ -54,6 +61,7 @@ answer.ai
 anthropic.com
 antithesis.com
 aosabook.org
+api-docs.deepseek.com
 appleinsider.com
 app.radicle.xyz
 apps.apple.com
@@ -66,6 +74,7 @@ asia.nikkei.com
 asimov.press
 asteriskmag.com
 astral.sh
+astro.build
 atlasobscura.com
 atlasof.space
 atlassian.com
@@ -96,6 +105,7 @@ bitwarden.com
 bizjournals.com
 bjsm.bmj.com
 blackhat.com
+blackmagicdesign.com
 bleepingcomputer.com
 blender.org
 blog.1password.com
@@ -124,6 +134,7 @@ blog.bitpay.com
 blog.bittorrent.com
 blog.britishmuseum.org
 blog.businessofsoftware.org
+blog.calif.io
 blog.canny.io
 blog.canonical.com
 blog.caranddriver.com
@@ -136,6 +147,7 @@ blog.cloudflare.com
 blog.clubhouse.com
 blog.codeclimate.com
 blog.coinbase.com
+blog.comma.ai
 blog.computationalcomplexity.org
 blog.couchdb.org
 blog.coursera.org
@@ -160,6 +172,7 @@ blog.excalidraw.com
 blog.facebook.com
 blog.fastmail.com
 blog.feedly.com
+blog.flipper.net
 blog.floydhub.com
 blog.fogcreek.com
 blog.getbootstrap.com
@@ -178,6 +191,7 @@ blog.jetbrains.com
 blog.joinmastodon.org
 blog.jquery.com
 blog.jupyter.org
+blog.k10s.dev
 blog.kaggle.com
 blog.kagi.com
 blog.kaspersky.com
@@ -304,8 +318,10 @@ bostonreview.net
 brave.com
 brew.sh
 brookings.edu
+browsergate.eu
 bsky.app
 bsky.social
+bugsappleloves.com
 bugs.chromium.org
 bugs.debian.org
 bugs.launchpad.net
@@ -320,12 +336,14 @@ busy.bar
 buzzfeednews.com
 c2.com
 cacm.acm.org
+caimito.net
 caltech.edu
 cam.ac.uk
 cambridgeblog.org
 canarymedia.com
 candyjapan.com
 ccc.de
+ccunpacked.dev
 cell.com
 cen.acs.org
 cerebras.ai
@@ -344,7 +362,9 @@ citizenlab.ca
 citusdata.com
 city-journal.org
 citylab.com
+civai.org
 cjr.org
+claudecodecamp.com
 claude.com
 cleantechnica.com
 clickhouse.com
@@ -378,7 +398,9 @@ computerhistory.org
 computerworld.com
 consumerist.com
 consumerreports.org
+consumerrights.wiki
 copilot.github.com
+copy.fail
 coreos.com
 cosmosmagazine.com
 courses.csail.mit.edu
@@ -394,11 +416,14 @@ cs.cornell.edu/courses
 csmonitor.com
 csoonline.com
 css-tricks.com
+cs.unc.edu/~stotts
 cs.utexas.edu
 csvbase.com
 ctvnews.ca
+curl.se
 currentaffairs.org
 cursor.com
+cyberinsider.com
 cyberlaw.stanford.edu
 cybernews.com
 dailydot.com
@@ -436,6 +461,7 @@ developer.chrome.com
 developer.ibm.com
 developer.mozilla.org
 developer.nvidia.com
+developers.cloudflare.com
 developers.facebook.com
 developers.googleblog.com
 developers.redhat.com
@@ -445,6 +471,7 @@ dev.to
 digest.bps.org.uk
 digiday.com
 digitalcourage.social
+digitalfoundry.net
 digitalocean.com
 dignitymemorial.com
 dillo-browser.github.io
@@ -465,8 +492,10 @@ dolphin-emu.org
 dolthub.com
 doom-captcha.vercel.app
 dosaygo-studio.github.io
+dpa-international.com
 dpreview.com
 drdobbs.com
+drive.com.au
 dropbox.tech
 dropsitenews.com
 duckdb.org
@@ -481,6 +510,7 @@ eclecticlight.co
 edgedb.com
 edge.org
 edition.cnn.com
+editor.p5js.org
 eetimes.com
 eff.org
 elastic.co
@@ -490,6 +520,7 @@ element.io
 elixir-lang.org
 elm-lang.org
 elysian.press
+enclose.horse
 energy.gov
 engineering.fb.com
 engineering.shopify.com
@@ -501,6 +532,7 @@ eng.uber.com
 entrepreneur.venturebeat.com
 environment.ec.europa.eu
 eos.org
+epoch.ai
 eprint.iacr.org
 equinox.space
 erlang.org
@@ -513,6 +545,7 @@ eurekalert.org
 eureporter.co
 eurogamer.net
 europarl.europa.eu
+europeanbusinessmagazine.com
 every.to
 everyuuid.com
 eweek.com
@@ -530,6 +563,7 @@ fastmail.com
 f-droid.org
 fedoramagazine.org
 fermatslibrary.com
+ferrari.com
 ferrous-systems.com
 feynmanlectures.caltech.edu
 ffmpegbyexample.com
@@ -538,6 +572,7 @@ fightchatcontrol.eu
 figma.com
 files.getdropbox.com
 finance.fortune.cnn.com
+fingerprint.com
 firebase.com
 firefox-replay.com
 firstlook.org
@@ -570,6 +605,7 @@ fuse.wikichip.org
 fusion.net
 futurism.com
 fy.blackhats.net.au
+gadgetreview.com
 gamasutra.com
 gamedeveloper.com
 gamespot.com
@@ -577,6 +613,7 @@ gamesradar.com
 gcc.gnu.org
 geek.com
 geekwire.com
+gentoo.org
 getlago.com
 ghacks.net
 ghostty.org
@@ -586,6 +623,7 @@ gimp.org
 gist.github.com
 github.blog
 githubengineering.com
+github.github.com
 githubstatus.com
 git.kernel.org
 gitlab.com
@@ -611,12 +649,14 @@ googleprojectzero.blogspot.com
 googleresearch.blogspot.com
 googlesystem.blogspot.com
 gothamist.com
+gptzero.me
 gq.com
 grafana.com
 grapheneos.social
 graphics.reuters.com
 graphite.dev
 gravitational.com
+greptile.com
 grist.org
 groklaw.net
 groq.com
@@ -644,6 +684,7 @@ health.aws.amazon.com
 heartbleed.com
 heise.de
 hellgatenyc.com
+hellmood.111mb.de
 help.openai.com
 helpx.adobe.com
 heroku.com
@@ -700,10 +741,12 @@ interestingengineering.com
 interviewing.io
 io9.com
 ipfs.io
+iranintl.com
 irishtimes.com
 isc.sans.edu
 isro.gov.in
 iterm2.com
+itsfoss.com
 itunes.apple.com
 itworld.com
 jacobin.com
@@ -711,6 +754,7 @@ jacobinmag.com
 jalopnik.com
 jamanetwork.com
 japantimes.co.jp
+jaso1024.com
 jetbrains.com
 jitsi.org
 jmail.world
@@ -727,6 +771,7 @@ keepandroidopen.org
 keybase.io
 khanacademy.org
 kidpix.app
+kimi.com
 kindlemodding.org
 knowablemagazine.org
 koreajoongangdaily.joins.com
@@ -743,9 +788,12 @@ laphamsquarterly.org
 lareviewofbooks.org
 latent.space
 lavabit.com
+lawfaremedia.org
 learningmusic.ableton.com
 learn.microsoft.com
+lesnumeriques.com
 lesswrong.com
+letsdatascience.com
 letsencrypt.org
 lettersofnote.com
 lichess.org
@@ -768,6 +816,7 @@ locusmag.com
 loglog.games
 longreads.com
 lore.kernel.org
+loworbitsecurity.com
 lowtechmagazine.com
 lrb.co.uk
 lumon-industries.com
@@ -793,6 +842,7 @@ marginalrevolution.com
 marker.medium.com
 markets.businessinsider.com
 marketwatch.com
+mas.to
 mastodon.archive.org
 mastodon.gamedev.place
 mastodon.social
@@ -837,6 +887,7 @@ moltbook.com
 mondaynote.com
 money.cnn.com
 monodraw.helftone.com
+monosketch.io
 moore.org
 morepypy.blogspot.com
 mosaicscience.com
@@ -854,6 +905,7 @@ mtgox.com
 m.theatlantic.com
 muckrock.com
 mullvad.net
+mybricklog.com
 my.opera.com
 m.youtube.com
 nakedsecurity.sophos.com
@@ -905,6 +957,7 @@ nj.com
 nltimes.nl
 nngroup.com
 nobelprize.org
+noctua.at
 nodejs.org
 noemamag.com
 noisypixel.net
@@ -919,11 +972,14 @@ nplusonemag.com
 npmjs.com
 np.reddit.com
 nrk.no
+numerique.gouv.fr
 nvidia.com
 nvidianews.nvidia.com
+nvlabs.github.io
 nybooks.com
 nymag.com
 nzherald.co.nz
+obdev.at
 observablehq.com
 observer.com
 obsidian.md
@@ -943,6 +999,8 @@ online.wsj.com
 openai.com
 openai.github.io
 openbsd.org
+openciv3.org
+opencode.ai
 openculture.com
 openjdk.org
 openra.net
@@ -981,6 +1039,7 @@ pcgamer.com
 pcworld.com
 persuasion.community
 petapixel.com
+pew.org
 pewresearch.org
 phind.com
 phoronix.com
@@ -1051,6 +1110,7 @@ qwen.ai
 qwenlm.github.io
 qz.com
 rackspace.com
+radar.cloudflare.com
 radar.oreilly.com
 railsatscale.com
 rapgenius.com
@@ -1075,6 +1135,7 @@ replicate.com
 research.google
 research.googleblog.com
 research.microsoft.com
+researchsquare.com
 restofworld.org
 restoreprivacy.com
 rethinkdb.com
@@ -1085,12 +1146,16 @@ retro.social
 revolt.chat
 rfc-editor.org
 riffusion.com
+rivian.com
 roadandtrack.com
 rockpapershotgun.com
+rollingout.com
 rollingstone.com
 rootsofprogress.org
+rowan441.github.io
 royalsociety.org
 royalsocietypublishing.org
+rpastro.square.site
 ruby-lang.org
 saigoneer.com
 salon.com
@@ -1166,6 +1231,7 @@ snyk.io
 social.clawhammer.net
 social.coop
 social.hackerspace.pl
+social.hails.org
 social.treehouse.systems
 software.intel.com
 solar.lowtechmagazine.com
@@ -1201,7 +1267,9 @@ status.openai.com
 status.slack.com
 staysaasy.com
 steamdeck.com
+stepsecurity.io
 stimmel-law.com
+stopflock.com
 store.steampowered.com
 streaming.media.ccc.de
 stripe.com
@@ -1214,6 +1282,8 @@ supernuclear.substack.com
 superset.apache.org
 superuser.com
 support.apple.com
+support.claude.com
+support.last.fm
 support.microsoft.com
 support.mozilla.org
 surgehq.ai
@@ -1224,10 +1294,12 @@ swissinfo.ch
 sydney.edu.au
 syfy.com
 system76.com
+taalas.com
 tabboo.xyz
 tailscale.com
 talks.golang.org
 tandfonline.com
+tanstack.com
 teamblind.com
 techblog.netflix.com
 techcommunity.microsoft.com
@@ -1278,6 +1350,7 @@ thenation.com
 thenewatlantis.com
 thenewstack.io
 thenextweb.com
+theolivepress.es
 theonion.com
 theoutline.com
 theparisreview.org
@@ -1289,6 +1362,7 @@ theregister.com
 theregister.co.uk
 the-scientist.com
 thestar.com
+thetimes.com
 the-tls.co.uk
 thewalrus.ca
 theweek.com
@@ -1351,17 +1425,20 @@ v8.dev
 v8project.blogspot.com
 val.town
 vanityfair.com
+vatican.va
 venturebeat.com
 venturehacks.com
 vercel.com
 vibilagare.se
 videolan.org
+virtualosmuseum.org
 visualstudiomagazine.com
 vivaldi.com
 vox.com
 voxeu.org
 vscodium.com
 vulture.com
+warontherocks.com
 warp.dev
 washingtonexaminer.com
 wasmer.io
@@ -1380,10 +1457,13 @@ web.mit.edu/newsoffice
 web.stanford.edu/class
 weforum.org
 well.blogs.nytimes.com
+wheelfront.com
 whispersystems.org
+whoami.wiki
 wiby.me
 wikileaks.org
 wikimediafoundation.org
+wikimediastatus.net
 wikitok.vercel.app
 windowscentral.com
 windowslatest.com
@@ -1396,6 +1476,7 @@ workspaceupdates.googleblog.com
 worldsensorium.com
 writing.exchange
 www3.nhk.or.jp
+www-cdn.anthropic.com
 xcancel.com
 x.com
 xconomy.com
@@ -1406,6 +1487,7 @@ ycombinator.posterous.com
 yle.fi
 younganimator.uk
 ytch.xyz
+z.ai
 zapier.com
 zdnet.com
 zed.dev
