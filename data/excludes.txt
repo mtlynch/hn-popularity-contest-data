@@ -134,6 +134,7 @@ blog.bitpay.com
 blog.bittorrent.com
 blog.britishmuseum.org
 blog.businessofsoftware.org
+blog.calif.io
 blog.canny.io
 blog.canonical.com
 blog.caranddriver.com
@@ -1320,7 +1321,6 @@ teslamotors.com
 testing.gimp.org
 texasmonthly.com
 text.npr.org
-thatprivacyguy.com
 theage.com.au
 theamericanscholar.org
 theatlanticwire.com
