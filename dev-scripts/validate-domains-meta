@@ -6,19 +6,12 @@ This script validates the domains-meta.csv file according to the following rules
 - No single topic may be longer than MAX_TOPIC_LENGTH characters
 - No topics column can be longer than MAX_TOPICS_COLUMN_LENGTH characters
 
-Usage:
-    validate-domains-meta <csv_file_path>
-
-Args:
-    csv_file_path: Path to the CSV file to validate
-
 Returns:
     0 if the file passes all validation checks
     1 if the file has validation errors
 """
 
 import csv
-import os
 import sys
 
 # Define constants for validation limits
@@ -26,8 +19,9 @@ MAX_BIO_LENGTH = 55
 MAX_TOPICS_COUNT = 3
 MAX_TOPIC_LENGTH = 30
 MAX_TOPICS_COLUMN_LENGTH = 65
+CSV_PATH = 'data/domains-meta.csv'
 
-def validate_domains_meta(csv_path):
+def validate_domains_meta():
     """Read the CSV file and validate according to the rules."""
     validation_errors = []
 
@@ -35,21 +29,21 @@ def validate_domains_meta(csv_path):
     expected_header = ['domain', 'author name', 'bio', 'topics']
 
     # First pass: Validate header appears correctly on first line and nowhere else
-    with open(csv_path, 'r', encoding='utf-8') as csv_file:
+    with open(CSV_PATH, 'r', encoding='utf-8') as csv_file:
         reader = csv.reader(csv_file)
 
         # Check first line is the expected header
         first_line = next(reader)
         if first_line != expected_header:
-            validation_errors.append(f"{csv_path}:1 - Invalid header. Expected: {','.join(expected_header)}, Got: {','.join(first_line)}")
+            validation_errors.append(f"{CSV_PATH}:1 - Invalid header. Expected: {','.join(expected_header)}, Got: {','.join(first_line)}")
 
         # Check for duplicate headers in the rest of the file
         for line_num, row in enumerate(reader, start=2):
             if row == expected_header:
-                validation_errors.append(f"{csv_path}:{line_num} - Duplicate header line found")
+                validation_errors.append(f"{CSV_PATH}:{line_num} - Duplicate header line found")
 
     # Second pass: Validate content
-    with open(csv_path, 'r', encoding='utf-8') as csv_file:
+    with open(CSV_PATH, 'r', encoding='utf-8') as csv_file:
         reader = csv.reader(csv_file)
         header = next(reader)
 
@@ -68,7 +62,7 @@ def validate_domains_meta(csv_path):
         for i, row in enumerate(reader, start=1):
             # Get the line number and domain for error reporting
             line_num = i + 1  # +1 for header row
-            file_line = f"{csv_path}:{line_num}"
+            file_line = f"{CSV_PATH}:{line_num}"
 
             # Skip rows that don't have enough columns
             if len(row) <= max(bio_index, topics_index):
@@ -121,15 +115,9 @@ def validate_domains_meta(csv_path):
         return 0
 
 if __name__ == "__main__":
-    if len(sys.argv) <= 1:
-        print("Error: CSV file path is required")
-        print("Usage: validate-domains-meta <csv_file_path>")
-        sys.exit(-1)
+    if len(sys.argv) != 1:
+        print("Error: This script does not accept arguments")
+        sys.exit(2)
 
-    csv_path = sys.argv[1]
-    if not os.path.exists(csv_path):
-        print(f"Error: File not found: {csv_path}")
-        sys.exit(-1)
-
-    exit_code = validate_domains_meta(csv_path)
+    exit_code = validate_domains_meta()
     sys.exit(exit_code)
