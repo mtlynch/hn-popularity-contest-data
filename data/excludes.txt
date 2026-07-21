@@ -69,6 +69,7 @@ arcprize.org
 arstechnica.com
 arstechnica.co.uk
 article.gmane.org
+artificialanalysis.ai # company research platform and publication
 asahilinux.org
 asia.nikkei.com
 asimov.press
@@ -82,6 +83,7 @@ audio-video.gnu.org
 autocar.co.uk
 avc.com
 avherald.com
+awesomeagents.ai # publication without a published single author
 aws.amazon.com
 aws.typepad.com
 axios.com
@@ -309,6 +311,7 @@ blog.zulip.org
 bloomberg.github.io
 bloombergquint.com
 bloombergview.com
+bluewin.ch # news site with multiple authors
 bmj.com
 bnnbloomberg.ca
 boilingsteam.com
@@ -328,6 +331,7 @@ bugs.launchpad.net
 bugzilla.mozilla.org
 buildkite.com
 bun.com
+bunny.net # company website and blog
 bun.sh
 businessinsider.com.au
 businessweek.com
@@ -385,11 +389,13 @@ coderwall.com
 code.visualstudio.com
 cohost.org
 coindesk.com
+coinerella.com # site describes its authors as plural
 cointelegraph.com
 collabfund.com
 collabora.com
 collaborativefund.com
 collectorsweekly.com
+commerce.jolla.com # ecommerce store, not a blog
 commoncog.com
 commondreams.org
 community.frame.work
@@ -406,6 +412,7 @@ cosmosmagazine.com
 courses.csail.mit.edu
 courthousenews.com
 crates.io
+creepylink.com # URL shortener tool, not a blog
 cruncher.ch
 crunchgear.com
 crunchydata.com
@@ -423,9 +430,11 @@ ctvnews.ca
 curl.se
 currentaffairs.org
 cursor.com
+cve.org # industry program website, not a blog
 cyberinsider.com
 cyberlaw.stanford.edu
 cybernews.com
+dailycal.org # student newspaper with multiple authors
 dailydot.com
 daily.jstor.org
 dailynous.com
@@ -446,6 +455,7 @@ decrypt.co
 deepmind.com
 deepmind.google
 defector.com
+deflock.org # no accessible written blog content
 deno.com
 deno.land
 devblogs.microsoft.com/blog
@@ -468,6 +478,7 @@ developers.redhat.com
 developer.yahoo.com
 developer.yahoo.net
 dev.to
+dexerto.com # newsroom with multiple authors
 digest.bps.org.uk
 digiday.com
 digitalcourage.social
@@ -545,11 +556,13 @@ eurekalert.org
 eureporter.co
 eurogamer.net
 europarl.europa.eu
+european-alternatives.eu # directory of products, not a blog
 europeanbusinessmagazine.com
 every.to
 everyuuid.com
 eweek.com
 explore.zoom.us
+expression.fire.org # Foundation for Individual Rights and Expression publication
 extremetech.com
 facebook.github.io
 factorio.com
@@ -568,6 +581,7 @@ ferrous-systems.com
 feynmanlectures.caltech.edu
 ffmpegbyexample.com
 ffmpeg.org
+fieggen.com # site explicitly says it is not a blog
 fightchatcontrol.eu
 figma.com
 files.getdropbox.com
@@ -649,6 +663,7 @@ googleprojectzero.blogspot.com
 googleresearch.blogspot.com
 googlesystem.blogspot.com
 gothamist.com
+governance.fyi # domain does not serve a website
 gptzero.me
 gq.com
 grafana.com
@@ -667,6 +682,7 @@ haaretz.com
 habr.com
 hachyderm.io
 hackaday.com
+hackernewstrends.com # data visualization tool, not a blog
 hackernoon.com
 hackerone.com
 hacks.mozilla.org
@@ -732,6 +748,7 @@ infosec.exchange
 infoworld.com
 inkandswitch.com
 inkscape.org
+innovativegenomics.org # research institute website with multiple authors
 inputmag.com
 insideevs.com
 insidefacebook.com
@@ -741,8 +758,10 @@ interestingengineering.com
 interviewing.io
 io9.com
 ipfs.io
+ipvm.com # company publication with multiple authors
 iranintl.com
 irishtimes.com
+iroh.computer # company website and blog
 isc.sans.edu
 isro.gov.in
 iterm2.com
@@ -816,6 +835,7 @@ locusmag.com
 loglog.games
 longreads.com
 lore.kernel.org
+lore.org # Epic Games product website
 loworbitsecurity.com
 lowtechmagazine.com
 lrb.co.uk
@@ -872,7 +892,9 @@ metastatus.com
 meta.wikimedia.org
 meteor.com
 microsoft.github.io
+midjourney.com # company website and blog
 m.imgur.com
+mimo.xiaomi.com # Xiaomi team website and blog
 minds.md
 missionlocal.org
 mistral.ai
@@ -962,6 +984,7 @@ nodejs.org
 noemamag.com
 noisypixel.net
 non.io
+nonogra.ph # publishing tool, not a blog
 notdivided.org
 notebookcheck.net
 notepad-plus-plus.org
@@ -1002,9 +1025,11 @@ openbsd.org
 openciv3.org
 opencode.ai
 openculture.com
+opencv.org # nonprofit organization website and blog
 openjdk.org
 openra.net
 openreview.net
+openrouter.ai # company website and blog
 openrss.org
 opensource.apple.com
 opensource.com
@@ -1074,6 +1099,7 @@ posthog.com
 pragprog.com
 predictors.fail
 priceonomics.com
+prismml.com # company website and blog
 privacyguides.org
 privacyinternational.org
 privateinternetaccess.com
@@ -1103,6 +1129,7 @@ qualcomm.com
 qualys.com
 quantamagazine.org
 qubes-os.org
+quesma.com # company blog lists multiple authors
 questdb.io
 queue.acm.org
 quillette.com
@@ -1157,6 +1184,7 @@ royalsociety.org
 royalsocietypublishing.org
 rpastro.square.site
 ruby-lang.org
+runtimewire.com # startup publication with multiple authors
 saigoneer.com
 salon.com
 sapiens.org
@@ -1178,6 +1206,7 @@ scienceswitch.com
 scientificamerican.com
 scitechdaily.com
 scmagazine.com
+screen.toys # interactive projects without written blog content
 scrollprize.org
 scylladb.com
 searchengineland.com
@@ -1193,6 +1222,7 @@ seekingalpha.com
 segment.com
 sellercentral.amazon.com
 semafor.com
+semgrep.dev # company website and blog
 semianalysis.com
 semiengineering.com
 seriouseats.com
@@ -1205,6 +1235,7 @@ sfchronicle.com
 sfconservancy.org
 sfstandard.com
 shademap.app
+shipmap.org # interactive map, not a blog
 shop.hak5.org
 shopify.engineering
 sidekick.kagi.com
@@ -1260,6 +1291,7 @@ stanforddaily.com
 starlabs.systems
 starterstory.com
 startupclass.samaltman.com
+startupfortune.com # publication with multiple authors
 startupschool.org
 statmodeling.stat.columbia.edu
 statnews.com
@@ -1330,12 +1362,14 @@ thebullshitmachines.com
 thecut.com
 thedailybeast.com
 thedailywtf.com
+the-decoder.com # publication with multiple authors
 thedrive.com
 thedriven.io
 thefp.com
 thegradient.pub
 thehill.com
 thehustle.co
+the-independent.com # newspaper with multiple authors
 theinformation.com
 theins.ru
 theintercept.com
@@ -1378,6 +1412,7 @@ tigerbeetle.com
 timesofindia.indiatimes.com
 timesofisrael.com
 timesonline.co.uk
+tinywind.io # no written blog content
 today.duke.edu
 together.ai
 tokio.rs
@@ -1416,6 +1451,7 @@ unrealengine.com
 unsloth.ai
 usebruno.com
 usenix.org
+user8.bearblog.dev # no written blog content
 userinyerface.com
 usni.org
 uspirg.org
@@ -1474,6 +1510,7 @@ worksinprogress.co
 worksinprogress.news
 workspaceupdates.googleblog.com
 worldsensorium.com
+wpvip.com # company website and blog
 writing.exchange
 www3.nhk.or.jp
 www-cdn.anthropic.com
