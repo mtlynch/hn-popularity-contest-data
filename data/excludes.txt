@@ -1,17 +1,25 @@
 01.org # open-source organization
+0x00sec.org # cybersecurity community
 100r.co
+12factor.net # software methodology project
 1843magazine.com
 18f.org
 19thnews.org # nonprofit newsroom
+1password.community # company community
 24ways.org # web-development publication
+2600.com # technology publication
 2ndquadrant.com # PostgreSQL company
 37signals.com
 38north.org # policy publication
 3ders.org # 3D-printing publication
+3dprintingmedia.network # industry publication
 404media.co
+4chan.org # collaborative online forum
+68kmla.org # retrocomputing community
 6sqft.com # local publication
 7pace.com # software company
 80000hours.org
+911realtime.org # collaborative educational project
 99designs.com # design marketplace company
 99percentinvisible.org
 9elements.com # software company
@@ -41,23 +49,28 @@ academic.oup.com
 academy.cs.cmu.edu # university research program
 accessnow.org # nonprofit rights organization
 acc.org # professional medical association
+accu.org # programming association
 aclu.org
 act.eff.org
 actualbudget.com # open-source software project
 adacore.com # software company
 adafruit.com # hardware and open-source company
 adblockplus.org # open-source software project
+addictionjournal.org # academic journal
 addons.mozilla.org
 adguard.com
 adguard-dns.io
 adguard-vpn.com # privacy-software company
 adn.com # newspaper with multiple authors
+adoptingerlang.org # collaborative Erlang guide
 advances.sciencemag.org
 adventofcode.com
 adweek.com # media-industry publication
 aeaweb.org # economics association
 aei.org # public-policy research institute
 aeon.co
+aeonmagazine.com # ideas publication
+aerc-mail.org # open-source email project
 afp.com # news agency
 aftenposten.no # newspaper
 afterbabel.com
@@ -70,19 +83,25 @@ ai.facebook.com
 ai.googleblog.com
 ai.google.dev
 aikido.dev
+aimath.org # mathematics institute
 ai.meta.com
 airbnb.com
 airbyte.com # software company
 airbyte.io # software company
+airfactsjournal.com # aviation publication
 airgradient.com
 airtable.com # software company
+airyx.org # open-source operating-system project
 aisle.com
 ai.stanford.edu/blog # university research program
 ajc.com # newspaper with multiple authors
 akamai.com # technology company
 al.com # newsroom
 algolia.com # software company
+algorithmicbotany.org # research project
+algorithmwatch.org # nonprofit research organization
 alibabacloud.com # technology company
+alignmentforum.org # collaborative research forum
 alistapart.com
 aljazeera.com
 allgov.com # news publication
@@ -91,9 +110,11 @@ allthatsinteresting.com # media publication
 allthingsd.com
 almalinux.org # open-source Linux project
 al-monitor.com # news publication
+alphagalileo.org # science news service
 alpinelinux.org # open-source Linux project
 alqst.org
 amazon.science
+amber-lang.net # programming-language project
 americanaffairsjournal.org
 americanhistory.si.edu # museum and research institution
 americanscientist.org
@@ -118,7 +139,10 @@ annas-archive.org
 annas-blog.org
 answer.ai
 ant.design # open-source software project
+antelang.org # programming-language project
 anthropic.com
+anthropocenemagazine.org # environmental publication
+antigonejournal.com # cultural publication
 antithesis.com
 anvil.works # software company
 anyscale.com # software company
@@ -128,15 +152,19 @@ aopa.org # aviation association
 aosabook.org
 api-docs.deepseek.com
 apmreports.org # nonprofit newsroom
+appfairness.org # nonprofit technology organization
 appleinsider.com
 app.radicle.xyz
 apps.apple.com
+archaeology.org # archaeology publication and institute
 archiveofourown.org # nonprofit archive
 archiveteam.org # digital-preservation organization
+archlinux.org # open-source Linux project
 arclanguage.org # programming-language project
 arcprize.org
 ardour.org # open-source software project
 arduino.cc # open-source hardware/software organization
+argdown.org # open-source documentation project
 arin.net # nonprofit Internet registry
 arkeonews.net # archaeology publication
 arrl.org # amateur-radio association
@@ -146,6 +174,7 @@ article.gmane.org
 artificialanalysis.ai # company research platform and publication
 artnews.com # arts publication
 asahilinux.org
+asciimath.org # open mathematical notation project
 asciinema.org # open-source software project
 asia.nikkei.com
 asiatimes.com # news publication
@@ -154,7 +183,9 @@ asml.com # semiconductor-equipment company
 assembled.com # software company
 assemblyai.com # AI company
 asteriskmag.com
+asteroidos.org # open-source smartwatch project
 astral.sh
+astrobites.org # collaborative astronomy publication
 astro.build
 astronomy.com # science publication
 atlasobscura.com
@@ -162,11 +193,14 @@ atlasof.space
 atlassian.com
 atproto.com # open-source protocol organization
 atuin.sh # open-source software project
+audacityteam.org # open-source audio project
+audioasylum.com # audio discussion community
 audio-video.gnu.org
 audubon.org # nonprofit conservation organization
 authzed.com # software company
 autocar.co.uk
 autodesk.com # software company
+automaticwasher.org # appliance enthusiast community
 automattic.com # software company
 automerge.org # open-source software project
 avaloniaui.net # open-source software project
@@ -194,6 +228,7 @@ baserow.io # software company
 baseten.co
 bastionzero.com # cybersecurity company
 battleforthenet.com
+bay12forums.com # gaming community forum
 bay12games.com # game studio
 bazel.io # open-source build system
 bazzite.gg # open-source Linux project
@@ -453,12 +488,16 @@ bmj.com
 bnnbloomberg.ca
 boilingsteam.com
 boingboing.net
+borgbackup.org # open-source backup project
 bostonglobe.com
 bostonreview.net
+box86.org # open-source emulator project
+brailleinstitute.org # nonprofit accessibility organization
 brave.com
 brew.sh
 briarproject.org # open-source communications project
 brookings.edu
+bropages.org # collaborative developer documentation
 browsergate.eu
 bsky.app
 bsky.social
@@ -477,7 +516,9 @@ businesswire.com
 busy.bar
 buzzfeednews.com
 c2.com
+c3.handmade.network # collaborative programming-language project
 c3-lang.org # programming-language project
+c4isrnet.com # defense technology publication
 cacm.acm.org
 caimito.net
 caltech.edu
@@ -485,14 +526,20 @@ cam.ac.uk
 cambridgeblog.org
 canarymedia.com
 candyjapan.com
+caniemail.com # collaborative web-compatibility project
 capitalone.com # financial-services company
+capnproto.org # open-source serialization project
 cardiff.ac.uk # university
+cardinalnews.org # nonprofit newsroom
 ccc.de
 ccs.neu.edu # university research center
 ccunpacked.dev
+cdecl.org # collaborative developer tool
 cell.com
 cen.acs.org
 cerebras.ai
+chalkdustmagazine.com # mathematics publication
+chalmers.se # university
 changelog.com
 channel9.msdn.com
 chaos.social
@@ -568,11 +615,14 @@ crunchydata.com
 cryptome.org
 crystal-lang.org
 crystalverse.com
+csc.gov.sg # government technology organization
+csclub.uwaterloo.ca # university computing club
 cs.cornell.edu/courses
 csmonitor.com
 csoonline.com
 css-tricks.com
 cs.unc.edu/~stotts
+csunplugged.org # collaborative computer-science education project
 cs.utexas.edu
 csvbase.com
 ctvnews.ca
