@@ -907,7 +907,6 @@ httpie.io
 huggingface.co
 humblebundle.com
 hyperallergic.com
-i3wm.org # open-source window-manager project
 iana.org # Internet standards organization
 ibtimes.co.uk
 icq.com
