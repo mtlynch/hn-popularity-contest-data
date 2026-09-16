@@ -23,8 +23,8 @@ readonly FILE_PATH
 TEMP_FILE=$(mktemp)
 readonly TEMP_FILE
 
-# Sort and deduplicate
-cat "${FILE_PATH}" | sort | uniq > "${TEMP_FILE}"
+# Sort and deduplicate using a locale-independent byte order.
+LC_ALL=C sort --unique "${FILE_PATH}" > "${TEMP_FILE}"
 
 # Compare files to see if content changed
 if diff -q "${FILE_PATH}" "${TEMP_FILE}" > /dev/null; then
