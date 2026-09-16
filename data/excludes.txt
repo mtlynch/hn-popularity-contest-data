@@ -15,6 +15,7 @@
 3dprintingmedia.network # industry publication
 404media.co
 4chan.org # collaborative online forum
+507movements.com # collaborative annotated work
 68kmla.org # retrocomputing community
 6sqft.com # local publication
 7pace.com # software company
@@ -35,15 +36,18 @@ abagames.github.io
 abajournal.com # legal publication
 abc.xyz # Alphabet corporate site
 abc7.com # newsroom
+abcnews.com # newsroom with multiple authors
 abcnews4.com
 ableton.com # music-software company
 ably.com # software company
 ably.io # software company
 about.fb.com
 about.gitlab.com
+about.iceland.co.uk # corporate history site
 about.netflix.com
 about.sourcegraph.com
 aboutamazon.com
+abovethelaw.com # legal publication with multiple authors
 abseil.io # open-source software project
 academic.oup.com
 academy.cs.cmu.edu # university research program
@@ -78,6 +82,7 @@ aftermath.site
 age-verifier.kibty.town
 agelesslinux.org
 agent-safehouse.dev
+ai-2027.com # multi-author research report
 ai.berkeley.edu # university research program
 ai.facebook.com
 ai.google.dev
@@ -87,6 +92,7 @@ ai.stanford.edu/blog # university research program
 aikido.dev
 aimath.org # mathematics institute
 airbnb.com
+airbus.com # corporate newsroom
 airbyte.com # software company
 airbyte.io # software company
 airfactsjournal.com # aviation publication
@@ -103,6 +109,7 @@ algolia.com # software company
 algorithmicbotany.org # research project
 algorithmwatch.org # nonprofit research organization
 alibabacloud.com # technology company
+alignment.anthropic.com # multi-author research publication
 alignmentforum.org # collaborative research forum
 alistapart.com
 aljazeera.com
@@ -114,12 +121,14 @@ almalinux.org # open-source Linux project
 alphagalileo.org # science news service
 alpinelinux.org # open-source Linux project
 alqst.org
+alz-journals.onlinelibrary.wiley.com # multi-author academic journals
 amazon.science
 amber-lang.net # programming-language project
 americanaffairsjournal.org
 americanhistory.si.edu # museum and research institution
 americanscientist.org
 americaspace.com # space publication
+amiga-news.de # news site with multiple authors
 amnh.org # natural-history museum and research institution
 amny.com # newspaper
 ams.org
@@ -128,6 +137,7 @@ anaconda.com # software company
 analog.com # semiconductor company
 anandtech.com
 anchor.host
+andonlabs.com # organizational research publication
 android-developers.blogspot.com
 android-developers.googleblog.com
 androidauthority.com
@@ -153,6 +163,7 @@ aopa.org # aviation association
 aosabook.org
 api-docs.deepseek.com
 apmreports.org # nonprofit newsroom
+app.dealroom.co # company news feed without individual authors
 app.radicle.xyz
 appfairness.org # nonprofit technology organization
 appleinsider.com
@@ -189,6 +200,7 @@ astral.sh
 astro.build
 astrobites.org # collaborative astronomy publication
 astronomy.com # science publication
+asus.com # product catalog, not a blog
 atlasobscura.com
 atlasof.space
 atlassian.com
@@ -198,9 +210,12 @@ audacityteam.org # open-source audio project
 audio-video.gnu.org
 audioasylum.com # audio discussion community
 audubon.org # nonprofit conservation organization
+augmental.tech # company product site
 authzed.com # software company
 autocar.co.uk
 autodesk.com # software company
+autodidacts.io # collaboratively authored blog
+autom.dev # team-authored company blog
 automaticwasher.org # appliance enthusiast community
 automattic.com # software company
 automerge.org # open-source software project
@@ -223,6 +238,7 @@ backblaze.com
 backchannel.com
 balsamiq.com
 baltimoresun.com # newspaper
+bandarlabs.github.io # collaborative software project
 bankofengland.co.uk
 basecamp.com # software company
 baserow.io # software company
@@ -243,12 +259,14 @@ beets.io # open-source software project
 beeware.org # open-source software organization
 belfasttelegraph.co.uk # newspaper
 bemyeyes.org # nonprofit accessibility organization
+bento.page # interactive app, not a blog
 berkshirehathaway.com
 betabeat.com
 betakit.com # technology publication
 betanews.com # technology publication
 bevyengine.org
 bfi.uchicago.edu # university research institute
+bfl.ai # organizational company blog
 bgr.com
 bigbrotherwatch.org.uk # nonprofit civil-liberties organization
 bignerdranch.com # software-education company
@@ -319,6 +337,7 @@ blog.circleci.com
 blog.clearbit.com
 blog.cloudflare.com
 blog.clubhouse.com
+blog.codeberg.org # organizational project blog
 blog.codeclimate.com
 blog.coinbase.com
 blog.comma.ai
@@ -337,12 +356,15 @@ blog.docker.com
 blog.docker.io
 blog.documentcloud.org
 blog.doordash.com
+blog.doubleword.ai # company blog with multiple authors
 blog.dropbox.com
 blog.duolingo.com
 blog.ecosia.org
+blog.ericgoldman.org # blog with guest authors
 blog.ethereum.org
 blog.evernote.com
 blog.excalidraw.com
+blog.exe.dev # technical blog with multiple authors
 blog.facebook.com
 blog.fastmail.com
 blog.feedly.com
@@ -376,14 +398,17 @@ blog.leavemealone.app
 blog.linkedin.com
 blog.linode.com
 blog.llvm.org
+blog.luanti.org # team-authored project blog
 blog.lyft.com
 blog.mailchimp.com
 blog.mailgun.net
 blog.malwarebytes.com
 blog.mapbox.com
 blog.mariadb.org
+blog.modelcontextprotocol.io # jointly authored project blog
 blog.mozilla.com
 blog.mozilla.org
+blog.netbsd.org # project blog with multiple authors
 blog.netflix.com
 blog.nodejs.org
 blog.npmjs.org
@@ -394,6 +419,7 @@ blog.palantir.com
 blog.pandora.com
 blog.parse.com
 blog.patreon.com
+blog.playcanvas.com # company blog with multiple authors
 blog.portswigger.net
 blog.priceonomics.com
 blog.pypi.org
@@ -435,6 +461,7 @@ blog.udacity.com
 blog.unity.com
 blog.us.playstation.com
 blog.usejournal.com
+blog.val.town # company blog with multiple authors
 blog.waymo.com
 blog.westerndigital.com
 blog.whatsapp.com
@@ -492,6 +519,7 @@ boingboing.net
 borgbackup.org # open-source backup project
 bostonglobe.com
 bostonreview.net
+bottlenecklabs.com # organizational research publication
 box86.org # open-source emulator project
 brailleinstitute.org # nonprofit accessibility organization
 brave.com
@@ -499,9 +527,11 @@ brew.sh
 briarproject.org # open-source communications project
 brookings.edu
 bropages.org # collaborative developer documentation
+browser.geekbench.com # generated benchmark records, not a blog
 browsergate.eu
 bsky.app
 bsky.social
+buf.build # company blog with multiple authors
 bugs.chromium.org
 bugs.debian.org
 bugs.launchpad.net
@@ -515,12 +545,15 @@ businessinsider.com.au
 businessweek.com
 businesswire.com
 busy.bar
+buttondown.com/blog # company blog with multiple authors
 buzzfeednews.com
 c2.com
 c3-lang.org # programming-language project
 c3.handmade.network # collaborative programming-language project
 c4isrnet.com # defense technology publication
+cabinetmagazine.org # magazine with multiple authors
 cacm.acm.org
+cactuscompute.com # unauthored product launch
 caimito.net
 caltech.edu
 cam.ac.uk
@@ -530,21 +563,28 @@ candyjapan.com
 caniemail.com # collaborative web-compatibility project
 capitalone.com # financial-services company
 capnproto.org # open-source serialization project
+caranddriver.com # magazine with multiple authors
 cardiff.ac.uk # university
 cardinalnews.org # nonprofit newsroom
+carryology.com # publication with multiple authors
+casio.com # product catalog, not a blog
 ccc.de
 ccs.neu.edu # university research center
 ccunpacked.dev
 cdecl.org # collaborative developer tool
+cdn.openai.com # institutional multi-author reports
 cell.com
 cen.acs.org
+cepr.org # research publication with multiple authors
 cerebras.ai
 chalkdustmagazine.com # mathematics publication
 chalmers.se # university
 changelog.com
 channel9.msdn.com
+channelnewsasia.com # newsroom with multiple authors
 chaos.social
 chat.openai.com
+chatgpt.com # multi-user hosting platform
 cheapskatesguide.org
 chemistryworld.com
 chicagotribune.com
@@ -553,14 +593,17 @@ chrome.blogspot.com
 chronicle.com
 circleci.com
 citizenlab.ca
+citizens-initiative.europa.eu # collaborative civic campaign
 citusdata.com
 city-journal.org
 citylab.com
 civai.org
 cjr.org
+claude.ai # multi-user hosting platform
 claude.com
 claudecodecamp.com
 cleantechnica.com
+clerky.com # unauthored company announcement
 clickhouse.com
 clicks.tech
 clojure.org
@@ -575,12 +618,16 @@ code.facebook.com
 code.fb.com
 code.ffmpeg.org
 code.org # nonprofit open-source education organization
+code.videolan.org # collaborative software repository
 code.visualstudio.com
 codeberg.org
 codepen.io
 coderwall.com
 coffeescript.org # open-source programming-language project
+cognition.com # company blog with multiple authors
+cohere.com # company research publication with multiple authors
 cohost.org
+coinbase.com # company blog with multiple authors
 coindesk.com
 coinerella.com # site describes its authors as plural
 cointelegraph.com
@@ -588,15 +635,22 @@ collabfund.com
 collabora.com
 collaborativefund.com
 collectorsweekly.com
+collusion.wiki # multi-author research report
 colorado.edu # university
+comaps.app # jointly authored project blog
 commerce.jolla.com # ecommerce store, not a blog
+commodore.net # company product and news site
 commoncog.com
 commoncrawl.org # nonprofit open-data organization
 commondreams.org
+commons.wikimedia.org # multi-creator media repository
 community.frame.work
 community.letsencrypt.org
 community.oneplus.com # company community website
+compactmag.com # magazine with multiple authors
+computer.org # multi-author research publication
 computerhistory.org
+computerweekly.com # technology publication with multiple authors
 computerworld.com
 consumerist.com
 consumerreports.org
@@ -609,6 +663,8 @@ courses.csail.mit.edu
 courthousenews.com
 crates.io
 creepylink.com # URL shortener tool, not a blog
+crimethinc.com # collectively authored publication
+crookedtimber.org # group blog with multiple authors
 crowdsupply.com # hardware company and marketplace
 cruncher.ch
 crunchgear.com
@@ -637,17 +693,23 @@ cybernews.com
 daily.jstor.org
 dailycal.org # student newspaper with multiple authors
 dailydot.com
+dailymail.com # newsroom with multiple authors
 dailynous.com
 dallasnews.com
 damninteresting.com
 darkreading.com
+darktable.org # software project, not a blog
+darlinghq.org # software project, not a blog
 darpa.mil
 dartlang.org # open-source programming-language project
+data.jma.go.jp # institutional data service
 databasearchitects.blogspot.com
 databricks.com
 datacenterdynamics.com
+datacolada.org # publication with multiple authors
 datatracker.ietf.org
 daylightcomputer.com
+dbos.dev # company blog with multiple authors
 deadline.com
 dealbook.blogs.nytimes.com
 dealbook.nytimes.com
@@ -655,10 +717,13 @@ debian.org
 decrypt.co
 deepmind.com
 deepmind.google
+deepseek.com # corporate product and documentation site
 defector.com
 deflock.org # no accessible written blog content
 deno.com
 deno.land
+depot.dev # company blog with multiple authors
+designboom.com # editorial publication with multiple authors
 dev.to
 devblogs.microsoft.com/blog
 devblogs.microsoft.com/commandline
@@ -671,6 +736,7 @@ developer.android.com
 developer.apple.com
 developer.chrome.com
 developer.ibm.com
+developer.meta.com # corporate developer portal
 developer.mozilla.org
 developer.nvidia.com
 developer.yahoo.com
@@ -678,8 +744,10 @@ developer.yahoo.net
 developers.cloudflare.com
 developers.facebook.com
 developers.googleblog.com
+developers.openai.com # corporate documentation and blog
 developers.redhat.com
 dexerto.com # newsroom with multiple authors
+dezeen.com # magazine with multiple authors
 digest.bps.org.uk
 digiday.com
 digitalcourage.social
@@ -688,8 +756,12 @@ digitalocean.com
 dignitymemorial.com
 dillo-browser.github.io
 dillo-browser.org # open-source browser project
+direct.mit.edu # multi-author institutional publisher
 discovermagazine.com
+discoverwildlife.com # magazine with multiple authors
+discoveryloop.com # company site, not a publication
 discussions.apple.com
+dissentmagazine.org # magazine with multiple authors
 distill.pub
 distrowatch.com
 django-cms.org # open-source software project
@@ -702,9 +774,11 @@ dmarcchecker.app
 docker.com
 docs.python.org
 documentcloud.org
+dogbolt.org # interactive developer tool, not a blog
 dogbunnypuzzle.com
 dolphin-emu.org
 dolthub.com
+dontwordle.com # interactive game, not a blog
 doom-captcha.vercel.app
 dosaygo-studio.github.io
 dotnetfoundation.org # nonprofit open-source foundation
@@ -712,20 +786,27 @@ dpa-international.com
 dpreview.com
 drdobbs.com
 drive.com.au
+dronexl.co # newsroom with multiple authors
 dropbox.tech
 dropsitenews.com
 drupal.org # open-source software project
 duckdb.org
 duckduckgo.com
+ducklabs.com # jointly authored company publication
+dutchnews.nl # newsroom with multiple authors
 e360.yale.edu
+earendil.com # company publication with multiple authors
+earth.nullschool.net # interactive visualization, not a blog
 earthly.dev
 easydns.com
 eater.com
 ec.europa.eu
+ecb.europa.eu # multi-author institutional publication
 echarts.apache.org
 eclecticlight.co
 eclipse.org # open-source software foundation
 economics.mit.edu # university economics department
+edera.dev # company blog with multiple authors
 edge.org
 edgedb.com
 edition.cnn.com
@@ -733,8 +814,10 @@ editor.p5js.org
 editorconfig.org # open-source standards project
 eetimes.com
 eff.org
+effort.news # institutional newsroom
 elastic.co
 electrek.co
+electronicmaterialsoffice.com # product site, not a blog
 electronics.stackexchange.com
 electronjs.org # open-source software project
 element.io
@@ -744,10 +827,14 @@ elm-lang.org
 elysian.press
 emacsconf.org # open-source community conference
 emacssurvey.org # open-source community project
+en.refund4freedom.org # advocacy campaign, not a blog
+en.wikisource.org # collaborative digital library
 enclose.horse
+encore.dev # company blog with multiple authors
 energy.gov
 eng.lyft.com
 eng.uber.com
+engineering.atspotify.com # engineering blog with multiple authors
 engineering.fb.com
 engineering.shopify.com
 english.elpais.com
@@ -767,6 +854,7 @@ eso.org
 esolangs.org # collaborative programming-language wiki
 esquire.com
 etherpad.com
+ethw.org # collaborative institutional wiki
 ethz.ch
 eurekalert.org
 eureporter.co
@@ -774,6 +862,7 @@ eurogamer.net
 europarl.europa.eu
 european-alternatives.eu # directory of products, not a blog
 europeanbusinessmagazine.com
+eveonline.com # corporate game-news site
 every.to
 everyuuid.com
 eweek.com
@@ -788,6 +877,8 @@ f-secure.com
 facebook.github.io
 factorcode.org # open-source programming-language project
 factorio.com
+fairphone.com # corporate product site
+falstad.com # interactive simulation collection, not a blog
 fast.ai
 fastcodesign.com
 fastcoexist.com
@@ -795,8 +886,10 @@ fastcolabs.com
 fastcompany.com
 fastly.com
 fastmail.com
+fastpotify.rocks # software landing page, not a blog
 fedoramagazine.org
 fedoraproject.org # open-source Linux project
+felonybench.com # benchmark site, not a blog
 fermatslibrary.com
 ferrari.com
 ferrous-systems.com
@@ -812,13 +905,17 @@ fingerprint.com
 firebase.com
 firefly-iii.org # open-source software project
 firefox-replay.com
+firefox.com # corporate software and release-notes site
 firstlook.org
+firstpost.com # newsroom with multiple authors
 firstround.com
+firstthings.com # magazine with multiple authors
 fivethirtyeight.com
 flightradar24.com
 flipperzero.one
 floor796.com
 fly.io
+fontsinuse.com # collaborative public archive
 foreignpolicy.com
 forgejo.org # open-source software project
 fortune.com
@@ -830,6 +927,8 @@ foundation.mozilla.org
 fourmilab.ch
 foxbusiness.com
 frame.work
+france24.com # newsroom with multiple authors
+fred.stlouisfed.org # institutional data service
 freebsd.org
 freecodecamp.org # nonprofit open-source education organization
 freedom-to-tinker.com
@@ -841,6 +940,7 @@ freethink.com
 frontiersin.org
 fs.blog
 fsf.org
+fstar-lang.org # collaborative software project
 fullstackeconomics.com
 fundingsimulator.com
 fuse.wikichip.org
@@ -848,11 +948,13 @@ fusion.net
 futurism.com
 fy.blackhats.net.au
 gadgetreview.com
+galois.com # company publication with multiple authors
 gamasutra.com
 gamedeveloper.com
 gamespot.com
 gamesradar.com
 gcc.gnu.org
+gdcvault.com # multi-speaker conference archive
 geek.com
 geekwire.com
 genode.org # open-source operating-system project
@@ -882,6 +984,7 @@ gnunet.org # open-source networking project
 gnupg.org # open-source cryptography project
 gnuradio.org # open-source software project
 go.dev
+goaccess.io # software project, not a blog
 godbolt.org # collaborative compiler-explorer project
 godotengine.org
 gokrazy.org # open-source operating-system project
@@ -899,10 +1002,13 @@ googleprojectzero.blogspot.com
 googleresearch.blogspot.com
 googlesystem.blogspot.com
 gothamist.com
+goto10retro.com # publication with guest authors
 gptzero.me
+gpuopen.com # corporate developer publication with multiple authors
 gq.com
 graalvm.org # open-source runtime project
 grafana.com
+grapheneos.org # collaborative software project
 grapheneos.social
 graphics.reuters.com
 graphite.dev
@@ -912,6 +1018,8 @@ grist.org
 groklaw.net
 groq.com
 gsb.stanford.edu
+guessingheadlights.com # newsroom with multiple authors
+guix.gnu.org # collaborative project blog
 guru3d.com
 gutenberg.org
 h-online.com
@@ -929,24 +1037,31 @@ haiku-os.org
 hakaimagazine.com
 hardbreak.wiki
 harpers.org
+harvardmagazine.com # magazine with multiple authors
 hashicorp.com
 haskell.org
 haxe.org # open-source programming-language project
 hazyresearch.stanford.edu
 hbr.org
 health.aws.amazon.com
+health.harvard.edu # institutional health publication with multiple authors
 heartbleed.com
+heatmap.news # newsroom with multiple authors
+hedgehogreview.com # journal with multiple authors
 heise.de
 helenos.org # open-source operating-system project
 hellgatenyc.com
 hellmood.111mb.de
 help.openai.com
 helpx.adobe.com
+heraldscotland.com # newspaper with multiple authors
 heroku.com
 hetzner.com
+hex.ooo # multi-author republishing library
 heynote.com
 highscalability.com
 hindenburgresearch.com
+hister.org # product site, not a blog
 historytoday.com
 home-assistant.io
 home.cern
@@ -960,6 +1075,7 @@ humblebundle.com
 hyperallergic.com
 i.gizmodo.com
 i.imgur.com
+iaea.org # institutional publication
 iana.org # Internet standards organization
 ibtimes.co.uk
 icq.com
@@ -969,17 +1085,23 @@ ieeexplore.ieee.org
 ifixit.com
 ifixit.org
 iflscience.com
+igalia.com # corporate news site
+iihs.org # institutional research publication
 iism.org
 ij.org
 imgur.com
 immersivemath.com
 immich.app
 inc.com
+inceptionlabs.ai # corporate product publication
+incident.io # company blog with multiple authors
 includeos.org # open-source operating-system project
 increment.com
 indiatoday.in
 indiehackers.com
 indieweb.org
+inference-docs.cerebras.ai # product documentation, not a blog
+infisical.com # company blog with multiple authors
 influxdata.com
 influxdb.com
 infobip.com
@@ -996,8 +1118,11 @@ insideevs.com
 insidefacebook.com
 insideprecisionmedicine.com
 instagram-engineering.tumblr.com
+intelligence.org # institutional advocacy publication
 interestingengineering.com
 interviewing.io
+inventati.org # collective web-hosting domain
+investors.micron.com # corporate investor-relations publication
 io9.com
 iojs.org # open-source JavaScript runtime project
 ipfs.io
@@ -1007,6 +1132,7 @@ iranintl.com
 irishtimes.com
 iroh.computer # company website and blog
 irssi.org # open-source email software project
+isaraerospace.com # corporate press publication
 isc.sans.edu
 isocpp.org # C++ standards organization
 isro.gov.in
@@ -1018,14 +1144,22 @@ jacobin.com
 jacobinmag.com
 jalopnik.com
 jamanetwork.com
+japannews.yomiuri.co.jp # newsroom with multiple authors
 japantimes.co.jp
 jaso1024.com
+jcgt.org # academic journal with multiple authors
+jdan.github.io # software project, not a blog
 jellyfin.org # open-source media-server project
 jetbrains.com
+jetkvm.com # corporate product blog
+jfrog.com # corporate research publication with multiple authors
 jitsi.org
 jmail.world
+john.fun # interactive project collection, not a blog
 joindiaspora.com
 joinpeertube.org
+jonty.github.io # project site, not a blog
+journals.aps.org # multi-author academic journal platform
 journals.plos.org
 journals.sagepub.com
 joyent.com
@@ -1034,8 +1168,12 @@ jsoncanvas.org
 julialang.org
 kaggle.com # data-science platform and company
 kagi.com
+kakoune.org # collaborative software project
+kansasreflector.com # newsroom with multiple authors
+kedglobal.com # business newsroom with multiple authors
 keepandroidopen.org
 keepassxc.org # open-source software project
+keepitfree.ai # collectively authored campaign site
 kernel.org # Linux kernel infrastructure
 kernelnewbies.org # Linux community organization
 keybase.io
@@ -1043,9 +1181,13 @@ keycloak.org # open-source software project
 khanacademy.org
 kicad.org # open-source software project
 kidpix.app
+killscreen.com # magazine with multiple authors
+killthecookiebanner.eu # multi-organization advocacy campaign
 kimi.com
 kindlemodding.org
+klarasystems.com # company publication with multiple authors
 knowablemagazine.org
+koreader.rocks # collaborative software project
 koreajoongangdaily.joins.com
 koreatimes.co.kr # newspaper with multiple authors
 kotaku.com
@@ -1055,14 +1197,20 @@ kqed.org
 krazam.tv
 krita.org
 kukuruku.co
+kxan.com # newsroom with multiple authors
+labs.quansight.org # company blog with multiple authors
+labs.ripe.net # institutional publication with multiple authors
 labs.watchtowr.com
 ladybird.org
 lambda-the-ultimate.org
+lanparty.house # jointly authored site
 laphamsquarterly.org
 lareviewofbooks.org
 latent.space
+laurentiugabriel.github.io # resume and interactive project site
 lavabit.com
 lawfaremedia.org
+leaddev.com # professional publication with multiple authors
 learn.microsoft.com
 learningmusic.ableton.com
 lesnumeriques.com
@@ -1070,10 +1218,14 @@ lesswrong.com
 letsdatascience.com
 letsencrypt.org
 lettersofnote.com
+lfe.io # collaborative programming-language project
+libertystreeteconomics.newyorkfed.org # institutional publication with multiple authors
 lichess.org
 lifehacker.com
+lighthousereports.com # collaborative investigative newsroom
 liliputing.com
 linaro.org # open-source engineering organization
+linear.app # company publication with multiple authors
 link.springer.com
 linode.com
 linuxcontainers.org # open-source software project
@@ -1086,6 +1238,7 @@ lists.gnu.org
 lite.cnn.com
 lithub.com
 livescience.com
+lji.org # institutional newsroom
 lkml.iu.edu
 lkml.org
 llama.meta.com
@@ -1094,12 +1247,15 @@ lmstudio.ai # AI software company
 localnewsmatters.org # nonprofit newsroom with multiple authors
 locusmag.com
 loglog.games
+londonist.com # city publication with multiple authors
+longbets.org # collaborative nonprofit project
 longreads.com
 lore.kernel.org
 lore.org # Epic Games product website
 loworbitsecurity.com
 lowtechmagazine.com
 lrb.co.uk
+lse.ac.uk # university research publication
 lttlabs.com # company research and engineering site
 lua.org # open-source programming-language project
 luajit.org # open-source software project
@@ -1107,6 +1263,7 @@ lumon-industries.com
 lunasec.io
 lux.camera
 lwn.net
+lxe.github.io # interactive parody, not a blog
 m.imgur.com
 m.nautil.us
 m.signalvnoise.com
@@ -1114,40 +1271,53 @@ m.theatlantic.com
 m.youtube.com
 m6n.io
 machinelearning.apple.com
+macleans.ca # magazine with multiple authors
 macrumors.com
 macstories.net
 macworld.com
 mail-archive.com
+mail-index.netbsd.org # multi-user mailing-list archive
 mail.mozilla.org
 mail.openjdk.java.net
 mail.python.org
 mailarchive.ietf.org
 mailman.nginx.org
 mainichi.jp
+makeuseof.com # technology publication with multiple authors
 makezine.com
 malus.sh
+malwarebytes.com # company blog with multiple authors
+manus.im # corporate announcement site
 marc.info
 marginalrevolution.com
+marimo.io # company blog with multiple authors
 marker.medium.com
 markets.businessinsider.com
 marketwatch.com
 mas.to
 mastodon.archive.org
 mastodon.gamedev.place
+mastodon.online # social-media hosting platform
 mastodon.social
 mastodon.world
 matasano.com
 math.cmu.edu
+mathandai.org # collectively authored declaration
 mathoverflow.net
+maths.cam.ac.uk # university department publication
 mathstodon.xyz
+mathunion.org # institutional awards site
 matplotlib.org # open-source software project
 matrix.org
 maxsiedentopf.com
+mcgill.ca # university newsroom
+mckinsey.com # corporate research publication with multiple authors
 mcsweeneys.net
 med.stanford.edu
 media.ccc.de
 mediaite.com
 medicalxpress.com
+medicine.washu.edu # university medical newsroom
 medium.freecodecamp.com
 medium.freecodecamp.org
 medrxiv.org
@@ -1162,19 +1332,27 @@ meta.wikimedia.org
 metaphysic.ai
 metastatus.com
 meteor.com
+metr.org # organizational research blog
+mezha.net # technology newsroom with multiple authors
 micropython.org # open-source software project
+microsoft.ai # corporate product newsroom
 microsoft.github.io
 midjourney.com # company website and blog
+military.com # newsroom with multiple authors
+militarytimes.com # newsroom with multiple authors
 mimo.xiaomi.com # Xiaomi team website and blog
 mindgard.ai # cybersecurity company
 minds.md
+minneapolisfed.org # institutional economic publication
 missionlocal.org
 mistral.ai
 mitpress.mit.edu
+mitsloan.mit.edu # university editorial publication
 mixergy.com
 mobile.nytimes.com
 mobile.reuters.com
 modal.com # software company
+modelrepublic.org # advocacy publication with multiple authors
 modernfarmer.com
 modular.com
 moltbook.com
@@ -1182,25 +1360,31 @@ mondaynote.com
 money.cnn.com
 monodraw.helftone.com
 monosketch.io
+monzo.com # coauthored company blog
 moore.org
 morepypy.blogspot.com
 mosaicscience.com
+mosh.org # collaborative software project
 motherboard.vice.com
 motherduck.com
 motherjones.com
+motor1.com # automotive newsroom with multiple authors
 motorolanews.com
+motortrend.com # automotive publication with multiple authors
 moz.com
 mozilla.org
 mpv.io
 msdn.microsoft.com
 msnbc.msn.com
 mtgox.com
+mturk.com # product service site, not a blog
 muckrock.com
 mullvad.net
 musescore.org # open-source music-notation project
 mutt.org # open-source email software project
 my.opera.com
 mybricklog.com
+mysk.blog # jointly authored research publication
 nakedsecurity.sophos.com
 nand2tetris.org # collaborative computer-science project
 nasdaq.com
@@ -1208,13 +1392,17 @@ nationalinterest.org
 nationalpost.com
 nationalreview.com
 nautil.us
+nbcsandiego.com # newsroom with multiple authors
 nber.org
 ncbi.nlm.nih.gov
+nebulasans.com # typeface project, not a blog
+neon.com # company blog with multiple authors
 neon.tech
 neovim.io
 neowin.net
 nerds.airbnb.com
 netblocks.org
+netbsd.org # collaborative software project
 netflixprize.com
 netflixtechblog.com
 netlify.com
@@ -1234,6 +1422,9 @@ news.stanford.edu
 news.umich.edu
 news.ycombinator.com
 newscientist.com
+newsletter.eng-leadership.com # coauthored newsletter
+newsletter.posthog.com # company newsletter with multiple authors
+newsletter.semianalysis.com # research newsletter with multiple authors
 newsoffice.mit.edu
 newsroom.fb.com
 newsroom.intel.com
@@ -1241,6 +1432,7 @@ newstatesman.com
 nextgov.com
 nextjs.org
 nextplatform.com
+ngrok.com # company blog with multiple authors
 niemanlab.org
 nightshade.cs.uchicago.edu
 nim-lang.org
@@ -1268,6 +1460,8 @@ np.reddit.com
 nplusonemag.com
 npmjs.com
 nrk.no
+ntsb.gov:443 # institutional newsroom
+nullpt.rs # technical blog with multiple authors
 numerique.gouv.fr
 numpy.org # open-source software project
 nvidia.com
@@ -1285,6 +1479,7 @@ ocaml.org # open-source programming-language project
 octoprint.org # open-source software project
 oculus.com
 ocw.mit.edu
+oilprice.com # energy publication with multiple authors
 old.reddit.com
 ollama.ai
 ollama.com
@@ -1295,16 +1490,20 @@ one-from-nippon.ghost.io
 onezero.medium.com
 online.wsj.com
 onlinelibrary.wiley.com
+oo-software.com # company publication with multiple authors
+ooni.org # collaborative project publication
 open-std.org
 open-web-advocacy.org
 openai.com
 openai.github.io
 openbsd.org
 openciv3.org
+openclaw.ai # project blog with multiple authors
 opencode.ai
 openculture.com
 opencv.org # nonprofit organization website and blog
 openjdk.org
+openlogi.org # product documentation site, not a blog
 openra.net
 openrefine.org # open-source data-cleaning project
 openreview.net
@@ -1314,11 +1513,14 @@ openscad.org # open-source software project
 opensource.apple.com
 opensource.com
 opensource.googleblog.com
+opensource.posit.co # company publication with multiple authors
 openssl.org
 opentf.org
 openwall.com
 operating-system-in-1000-lines.vercel.app
 opinionator.blogs.nytimes.com
+opusfived.dev # interactive project, not a blog
+orbify.eu # interactive product demo, not a blog
 oregonlive.com
 oreilly.com
 oreillynet.com
@@ -1330,6 +1532,7 @@ overkill.wtf
 owasp.org # nonprofit application-security organization
 ox.ac.uk
 oxide.computer
+pagedout.institute # community magazine with multiple authors
 palladiummag.com
 pando.com
 pandoc.org
@@ -1339,39 +1542,54 @@ papers.ssrn.com
 paperswelove.org # open-source/community education organization
 pardonsnowden.org
 pastebin.com
+patreon.com # shared creator platform
 patterns.app
 pcgamer.com
 pcworld.com
 penny-arcade.com # publication with multiple authors
+penpot.app # company blog with multiple authors
+people.kernel.org # shared blogging platform
+perplexity.ai # corporate product and publication
 persuasion.community
+petals.dev # collaborative software project
 petapixel.com
 pew.org
 pewresearch.org
 phind.com
 phoronix.com
+phrack.org # security zine with multiple authors
 phys.org
 physics.stackexchange.com
 physicstoday.scitation.org
+physicsworld.com # science publication with multiple authors
 pikimov.com
+pikuma.com # technical blog with multiple authors
 pine64.org
 pinecone.io
 pipewire.org # open-source multimedia project
 pitchfork.com
+pivot-to-ai.com # no identifiable authored publication
+pkg.go.dev # shared documentation index
 planetary.org
 planetscale.com
+platform.claude.com # corporate product documentation
 platform.openai.com
 plato.stanford.edu
 plausible.io
 playhearthstone.com
 plus.maths.org
 pnas.org
+pnpm.io # project blog with guest authors
 pocketbase.io
 podman-desktop.io
+poetryfoundation.org # multi-author literary publication
 pola.rs
 politico.com
 politico.eu
+pollen-robotics.com # company product site
 polygon.com
 popsci.com
+popular.info # newsletter with multiple authors
 popularmechanics.com
 portfolio.com
 portswigger.net
@@ -1382,6 +1600,7 @@ postmarketos.org # open-source operating-system project
 pragprog.com
 predictors.fail
 priceonomics.com
+primeintellect.ai # company publication with multiple authors
 prismml.com # company website and blog
 privacyguides.org
 privacyinternational.org
@@ -1396,14 +1615,17 @@ protomaps.com
 proton.me
 protonmail.com
 psmag.com
+psu.edu # university publication
 psyche.co
 psypost.org
 publicdomainreview.org
+publishersweekly.com # trade publication with multiple authors
 pubmed.ncbi.nlm.nih.gov
 pubs.acs.org
 pudding.cool
 puri.sm
 puzzling.stackexchange.com
+pv-magazine-usa.com # trade publication with multiple authors
 pv-magazine.com
 pyinfra.com
 python.org
@@ -1421,20 +1643,25 @@ qutebrowser.org # open-source browser project
 qwen.ai
 qwenlm.github.io
 qz.com
+r-bloggers.com # multi-author aggregation publication
 racket-lang.org # open-source programming-language project
 rackspace.com
 radar.cloudflare.com
 radar.oreilly.com
 railsatscale.com
+rand.org # institutional research publisher
 rapgenius.com
 rarehistoricalphotos.com
+ras.ac.uk # institutional science newsroom
 raspberrypi.com
 raspberrypi.org
+ravynos.com # software project, not a blog
 rclone.org # open-source software project
 rd.com
 reactjs.org
 reactos.org
 readwriteweb.com
+reaktor.com # company publication with multiple authors
 reallifemag.com
 realworldtech.com
 reason.com
@@ -1442,14 +1669,20 @@ reclaimthenet.org
 recode.net
 recurse.chat
 redditblog.com
+redfin.com # corporate research publication with multiple authors
 redhat.com
 releases.ubuntu.com
+render.com # company blog with multiple authors
 repebble.com
 replicate.com
+research.checkpoint.com # corporate research publication with multiple authors
 research.google
 research.googleblog.com
+research.jfrog.com # corporate research publication with multiple authors
+research.meta.ai # organizational research publication
 research.microsoft.com
 researchsquare.com
+responsiblestatecraft.org # policy publication with multiple authors
 restofworld.org
 restoreprivacy.com
 rethinkdb.com
@@ -1459,8 +1692,12 @@ retro.social
 retrocomputing.stackexchange.com
 revolt.chat
 rfc-editor.org
+rfd.shared.oxide.computer # multi-author company design archive
+rietta.com # company blog with multiple authors
 riffusion.com
 riscv.org # nonprofit open hardware organization
+risky.biz # security publication with multiple authors
+rivendell.dmitrybrant.com # interactive project collection, not a blog
 rivian.com
 roadandtrack.com
 rockpapershotgun.com
@@ -1472,14 +1709,23 @@ rowan441.github.io
 royalsociety.org
 royalsocietypublishing.org
 rpastro.square.site
+rubinobservatory.org # institutional newsroom
 ruby-lang.org
+rubyhack.ai # jointly authored research site
+rubyonrails.org # project publication with multiple authors
+runnersworld.com # magazine with multiple authors
 runtimewire.com # startup publication with multiple authors
 rust-lang.org # open-source programming-language organization
+rustfoundation.org # foundation publication with multiple authors
+s21.q4cdn.com # corporate asset CDN, not a publication
+safedep.io # company blog with multiple authors
 saigoneer.com
 salon.com
+san.com # newsroom with multiple authors
 sapiens.org
 savedotorg.org
 saveflipper.ca
+sbcl.org # collaborative software project
 sbstatesman.com
 scala-lang.org
 scanalyst.fourmilab.ch
@@ -1501,6 +1747,7 @@ scrollprize.org
 scummvm.org # open-source software project
 scylladb.com
 searchengineland.com
+seas.harvard.edu # university newsroom with multiple authors
 seattletimes.com
 sec.gov
 seclists.org
@@ -1508,6 +1755,7 @@ securelist.com
 security.apple.com
 security.googleblog.com
 securityweek.com
+seed.bytedance.com # organizational research publication
 seedmagazine.com
 seekingalpha.com
 segment.com
@@ -1522,6 +1770,8 @@ seriouseats.com
 servethehome.com
 servo.org
 setosa.io
+severe-weather.eu # weather publication with multiple authors
+sf.thijs.gg # interactive game, not a blog
 sfba.social
 sfbay.craigslist.org
 sfchronicle.com
@@ -1531,11 +1781,14 @@ shademap.app
 shipmap.org # interactive map, not a blog
 shop.hak5.org
 shopify.engineering
+short-stories.co # multi-author contributor platform
 sidekick.kagi.com
 sifted.eu
 sigarch.org # computing research association
+sigma-star.at # organizational company blog
 signal.org
 simonsfoundation.org
+simpleflying.com # newsroom with multiple authors
 simplethread.com
 simulavr.com
 singularityhub.com
@@ -1548,10 +1801,14 @@ slackhq.com
 slate.com
 slimemoldtimemold.com
 sloanreview.mit.edu
+slow-journalism.com # magazine with multiple authors
+sltrib.com # newsroom with multiple authors
 smallstep.com
 smashingmagazine.com
 smithsonianmag.com
+snap.berkeley.edu # collaborative educational project
 snopes.com
+snowflake.com # corporate publication with multiple authors
 snyk.io
 social.clawhammer.net
 social.coop
@@ -1560,18 +1817,25 @@ social.hails.org
 social.treehouse.systems
 software.intel.com
 solar.lowtechmagazine.com
+solidjs.com # collaboratively authored project documentation
 soranews24.com
 sourceforge.net
 sourcegraph.com
 sourcehut.org
 space.com
+spacedaily.com # multi-author news service
+spacenews.com # newsroom with multiple authors
+spacetimedb.com # company blog with multiple authors
 spacex.com
 sparkfun.com
 sparktoro.com
+specification.website # collaborative specification
 spectator.co.uk
 spectrum.ieee.org
+spillhistorie.no # publication with multiple authors
 spin.atomicobject.com
 splunk.com
+sporks.space # blog with multiple authors
 spreadprivacy.com
 spreadsheets-are-all-you-need.ai
 sqlite.org
@@ -1587,6 +1851,8 @@ starterstory.com
 startupclass.samaltman.com
 startupfortune.com # publication with multiple authors
 startupschool.org
+statescoop.com # newsroom with multiple authors
+statichost.eu # blog with guest authors
 statmodeling.stat.columbia.edu
 statnews.com
 status.openai.com
@@ -1595,16 +1861,21 @@ staysaasy.com
 steamdeck.com
 stepsecurity.io
 stimmel-law.com
+stockfishchess.org # team-authored project blog
+stolen-thoughts.com # multi-author research site
 stopflock.com
 store.steampowered.com
+storymaps.arcgis.com # shared publishing platform
 streaming.media.ccc.de
 stripe.com
 strongtowns.org
+studyfinds.com # publication with multiple authors
 studyfinds.org
 sublimetext.com
 suckless.org # open-source software organization
 supabase.com
 supabase.io
+superlogical.com # collectively authored company site
 supernuclear.substack.com
 superset.apache.org
 superuser.com
@@ -1616,6 +1887,7 @@ support.mozilla.org
 surgehq.ai
 svd.se
 svelte.dev
+swag.htmx.org # merchandise store, not a blog
 swift.org
 swissinfo.ch
 sydney.edu.au
@@ -1625,8 +1897,10 @@ system76.com
 taalas.com
 tabboo.xyz
 tailscale.com
+tailwindcss.com # corporate blog with multiple authors
 talks.golang.org
 tandfonline.com
+tangled.org # project blog with multiple authors
 tanstack.com
 taskandpurpose.com # news publication
 taskwarrior.org # open-source software project
@@ -1642,16 +1916,20 @@ techemails.com
 techinasia.com
 technologyreview.com
 techpolicy.press # policy publication with multiple authors
+techpowerup.com # technology publication with multiple authors
 techreport.com
 techrepublic.com
 techspot.com
 techxplore.com
 telegram.org
+temporal.io # corporate blog with multiple authors
 terminal.shop
 tesla.com
 teslamotors.com
 testing.gimp.org
 texasmonthly.com
+texasobserver.org # newsroom with multiple authors
+texastribune.org # newsroom with multiple authors
 text.npr.org
 the-decoder.com # publication with multiple authors
 the-independent.com # newspaper with multiple authors
@@ -1663,15 +1941,20 @@ theatlanticwire.com
 theautopian.com
 thebaffler.com
 thebullshitmachines.com
+thecollector.com # contributor publication with multiple authors
+theconsensus.dev # publication with multiple authors
 thecut.com
 thedailybeast.com
 thedailywtf.com
+thedial.world # magazine with multiple authors
 thedrive.com
 thedriven.io
 thefp.com
 thegamer.com # gaming publication with multiple authors
 thegradient.pub
 thehill.com
+thehub.ca # newsroom with multiple authors
+thehugoawards.org # organizational awards publication
 thehustle.co
 theinformation.com
 theins.ru
@@ -1684,6 +1967,7 @@ themarkup.org
 themarshallproject.org
 themessenger.com
 thenation.com
+thenerve.news # newsroom with multiple authors
 thenewatlantis.com
 thenewstack.io
 thenextweb.com
@@ -1691,6 +1975,7 @@ theolivepress.es
 theonion.com
 theoutline.com
 theparisreview.org
+thephp.foundation # foundation publication with multiple authors
 thepiratebay.org
 thepiratebay.se
 thereader.mitpress.mit.edu
@@ -1716,9 +2001,12 @@ tigerbeetle.com
 timesofindia.indiatimes.com
 timesofisrael.com
 timesonline.co.uk
+tinybird.co # corporate blog with multiple authors
 tinygrad.org # open-source software project
 tinywind.io # no written blog content
+tmpout.sh # zine with multiple authors
 today.duke.edu
+today.ucsd.edu # university newsroom with multiple authors
 together.ai
 tokio.rs
 tokyoweekender.com
@@ -1728,36 +2016,49 @@ tools.ietf.org
 torrentfreak.com
 touchgrass.now
 towardsdatascience.com
+tracker.archiveteam.org # operational project tracker, not a blog
 tradingeconomics.com
 tradingview.com
+transformer-circuits.pub # multi-author research publication
 translate.kagi.com
+transportenvironment.org # organizational advocacy publication
+trellner.com # organizational research publication
 triplebyte.com
+trtworld.com # newsroom with multiple authors
 tug.org # TeX user-group organization
+turbopuffer.com # company blog with guest authors
 turso.tech # database company
 tuta.com
 tutanota.com
 tuxphones.com
+tweedegolf.nl # company blog with multiple authors
 twilio.com
 twitlonger.com
+twitterwebviewer.com # social-media viewer, not a publication
 twz.com
 typelit.io
 typescriptlang.org # open-source programming-language project
 uber.com
 ubicloud.com
 ubuntu.com
+uclahealth.org # institutional newsroom with multiple authors
 ucsf.edu
+uefa.com # organizational newsroom with multiple authors
 uk.businessinsider.com
 uk.reuters.com
 uk.techcrunch.com
 ukrainetoday.org
 undark.org
 undeadly.org
+understandingai.org # newsletter with multiple authors
 unherd.com
 unicode.org # Unicode Consortium
+unit42.paloaltonetworks.com # research publication with multiple authors
 unite.ai
 universetoday.com
 unrealengine.com
 unsloth.ai
+upi.com # multi-author newswire
 usebruno.com
 usenix.org
 user8.bearblog.dev # no written blog content
@@ -1769,20 +2070,31 @@ uxdesign.cc
 v8.dev
 v8project.blogspot.com
 val.town
+vals.ai # company news site with multiple authors
+vancouverisawesome.com # local newsroom with multiple authors
 vanityfair.com
 vatican.va
+vectorware.com # team-authored company publication
 venturebeat.com
 venturehacks.com
 vercel.com
 vibilagare.se
+victoriametrics.com # corporate blog with multiple authors
+videogameschronicle.com # newsroom with multiple authors
 videolan.org
 virtualosmuseum.org
+visual6502.org # collaborative technical project
 visualstudiomagazine.com
 vivaldi.com
+vldb.org # multi-author scholarly publication venue
+vllm.ai # community-authored project publication
 vox.com
 voxeu.org
 vscodium.com
+vtdigger.org # newsroom with multiple authors
 vulture.com
+wafer.ai # company blog with multiple authors
+wallpaper.com # magazine with multiple authors
 warontherocks.com
 warp.dev
 washingtonexaminer.com
@@ -1791,6 +2103,7 @@ wasmer.io
 waymo.com
 wbur.org
 wccftech.com
+wcvb.com # television newsroom with multiple authors
 web.archive.org
 web.dev
 web.mit.edu/jemorris
@@ -1800,11 +2113,14 @@ web.stanford.edu/class
 webassembly.org # open web-standards organization
 webbtelescope.org
 webcache.googleusercontent.com
+webiterate.dev # organizational research publication
 webkit.org
 weblog.rubyonrails.org
 weforum.org
+weirdgloop.org # blog with multiple authors
 well.blogs.nytimes.com
 wesnoth.org # open-source game project
+whatever.scalzi.com # blog with multiple and guest authors
 wheelfront.com
 whispersystems.org
 whoami.wiki
@@ -1822,10 +2138,12 @@ workout.lol
 worksinprogress.co
 worksinprogress.news
 workspaceupdates.googleblog.com
+worldlabs.ai # organizational research publication
 worldsensorium.com
 wpvip.com # company website and blog
 writefreely.org # open-source publishing project
 writing.exchange
+wsbtv.com # television newsroom with multiple authors
 www-cdn.anthropic.com
 www3.nhk.or.jp
 x.ai # AI company
@@ -1833,12 +2151,16 @@ x.com
 xcancel.com
 xconomy.com
 xda-developers.com
+xenaproject.wordpress.com # blog with guest authors
 xiph.org
 xmpp.org # open messaging-standards organization
+yalereview.org # literary magazine with multiple authors
+yarchive.net # archive of multiple authors' writing
 ycombinator.com
 ycombinator.posterous.com
 yle.fi
 younganimator.uk
+ysph.yale.edu # university publication with multiple authors
 ytch.xyz
 yunohost.org # open-source server project
 yuzu-emu.org # open-source emulator project
@@ -1846,6 +2168,9 @@ z.ai
 zapier.com
 zdnet.com
 zed.dev
+zenodo.org # shared research repository
+zeus.ugent.be # collaborative student organization
 ziglang.org
+zillow.com # corporate research publication with multiple authors
 zocalopublicsquare.org # nonprofit publication
 zrythm.org # open-source music-software project
