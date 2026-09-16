@@ -1460,7 +1460,7 @@ np.reddit.com
 nplusonemag.com
 npmjs.com
 nrk.no
-ntsb.gov:443 # institutional newsroom
+ntsb.gov # institutional newsroom
 nullpt.rs # technical blog with multiple authors
 numerique.gouv.fr
 numpy.org # open-source software project
