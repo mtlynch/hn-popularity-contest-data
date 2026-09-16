@@ -33,22 +33,22 @@ aarp.org # nonprofit membership organization
 aasm.org
 abagames.github.io
 abajournal.com # legal publication
+abc.xyz # Alphabet corporate site
 abc7.com # newsroom
 abcnews4.com
-abc.xyz # Alphabet corporate site
 ableton.com # music-software company
 ably.com # software company
 ably.io # software company
-aboutamazon.com
 about.fb.com
 about.gitlab.com
 about.netflix.com
 about.sourcegraph.com
+aboutamazon.com
 abseil.io # open-source software project
 academic.oup.com
 academy.cs.cmu.edu # university research program
-accessnow.org # nonprofit rights organization
 acc.org # professional medical association
+accessnow.org # nonprofit rights organization
 accu.org # programming association
 aclu.org
 act.eff.org
@@ -58,9 +58,9 @@ adafruit.com # hardware and open-source company
 adblockplus.org # open-source software project
 addictionjournal.org # academic journal
 addons.mozilla.org
-adguard.com
 adguard-dns.io
 adguard-vpn.com # privacy-software company
+adguard.com
 adn.com # newspaper with multiple authors
 adoptingerlang.org # collaborative Erlang guide
 advances.sciencemag.org
@@ -75,16 +75,17 @@ afp.com # news agency
 aftenposten.no # newspaper
 afterbabel.com
 aftermath.site
+age-verifier.kibty.town
 agelesslinux.org
 agent-safehouse.dev
-age-verifier.kibty.town
 ai.berkeley.edu # university research program
 ai.facebook.com
-ai.googleblog.com
 ai.google.dev
+ai.googleblog.com
+ai.meta.com
+ai.stanford.edu/blog # university research program
 aikido.dev
 aimath.org # mathematics institute
-ai.meta.com
 airbnb.com
 airbyte.com # software company
 airbyte.io # software company
@@ -94,9 +95,9 @@ airtable.com # software company
 airyx.org # open-source operating-system project
 aisle.com
 aisnakeoil.substack.com # publication with multiple authors
-ai.stanford.edu/blog # university research program
 ajc.com # newspaper with multiple authors
 akamai.com # technology company
+al-monitor.com # news publication
 al.com # newsroom
 algolia.com # software company
 algorithmicbotany.org # research project
@@ -110,7 +111,6 @@ allkpop.com # entertainment publication
 allthatsinteresting.com # media publication
 allthingsd.com
 almalinux.org # open-source Linux project
-al-monitor.com # news publication
 alphagalileo.org # science news service
 alpinelinux.org # open-source Linux project
 alqst.org
@@ -128,9 +128,9 @@ anaconda.com # software company
 analog.com # semiconductor company
 anandtech.com
 anchor.host
-androidauthority.com
 android-developers.blogspot.com
 android-developers.googleblog.com
+androidauthority.com
 androidpolice.com
 animalnewyork.com # arts publication
 animationobsessive.substack.com
@@ -153,9 +153,9 @@ aopa.org # aviation association
 aosabook.org
 api-docs.deepseek.com
 apmreports.org # nonprofit newsroom
+app.radicle.xyz
 appfairness.org # nonprofit technology organization
 appleinsider.com
-app.radicle.xyz
 apps.apple.com
 archaeology.org # archaeology publication and institute
 archiveofourown.org # nonprofit archive
@@ -169,8 +169,8 @@ argdown.org # open-source documentation project
 arin.net # nonprofit Internet registry
 arkeonews.net # archaeology publication
 arrl.org # amateur-radio association
-arstechnica.com
 arstechnica.co.uk
+arstechnica.com
 article.gmane.org
 artificialanalysis.ai # company research platform and publication
 artnews.com # arts publication
@@ -186,8 +186,8 @@ assemblyai.com # AI company
 asteriskmag.com
 asteroidos.org # open-source smartwatch project
 astral.sh
-astrobites.org # collaborative astronomy publication
 astro.build
+astrobites.org # collaborative astronomy publication
 astronomy.com # science publication
 atlasobscura.com
 atlasof.space
@@ -195,8 +195,8 @@ atlassian.com
 atproto.com # open-source protocol organization
 atuin.sh # open-source software project
 audacityteam.org # open-source audio project
-audioasylum.com # audio discussion community
 audio-video.gnu.org
+audioasylum.com # audio discussion community
 audubon.org # nonprofit conservation organization
 authzed.com # software company
 autocar.co.uk
@@ -263,8 +263,8 @@ biorxiv.org
 birdnet.cornell.edu # university research project
 birmingham.ac.uk # university
 birminghammail.co.uk # newspaper
-bitcoinfoundation.org # nonprofit cryptocurrency organization
 bitcoin.org # open-source cryptocurrency project
+bitcoinfoundation.org # nonprofit cryptocurrency organization
 bitcointalk.org
 bitmovin.com # software company
 bits.blogs.nytimes.com
@@ -294,8 +294,8 @@ blog.algolia.com
 blog.angular.io
 blog.angularjs.org
 blog.apnic.net
-blog.appcanary.com
 blog.app.net
+blog.appcanary.com
 blog.archive.org
 blog.arduino.cc
 blog.arxiv.org
@@ -329,8 +329,8 @@ blog.data.gov.sg
 blog.diasporafoundation.org
 blog.digg.com
 blog.digitalocean.com
-blog.discordapp.com
 blog.discord.com
+blog.discordapp.com
 blog.dislocatedday.com
 blog.disqus.com
 blog.docker.com
@@ -408,48 +408,15 @@ blog.research.google
 blog.robinhood.com
 blog.roblox.com
 blog.rust-lang.org
-blogs.adobe.com
-blogs.akamai.com
 blog.salesforceairesearch.com
-blogs.atlassian.com
-blogs.bl.uk
 blog.scaleway.com
-blogs.discovermagazine.com
-blogs.dropbox.com
 blog.seattlepi.com
 blog.sendgrid.com
 blog.serverfault.com
 blog.sfgate.com
-blogs.gnome.org
-blogs.harvard.edu
-blogs.hbr.org
-blogs.igalia.com # software-company blog with multiple authors
-blogs.janestreet.com
-blogs.jetbrains.com
-blogs.law.harvard.edu
-blogs.lse.ac.uk
 blog.smartbear.com
-blogs.microsoft.com/blog
-blogs.msdn.microsoft.com/dotnet
-blogs.nature.com
-blogs.nvidia.com
-blogs.office.com
-blogs.oracle.com
-blogs.reuters.com
-blogs.sciencemag.org
-blogs.scientificamerican.com
-blogs.skype.com
-blogs.smithsonianmag.com
-blogs.sun.com
-blogs.suntimes.com
 blog.stackoverflow.com
-blogs.technet.com
-blogs.valvesoftware.com
-blogs.vmware.com
-blogs.windows.com
-blogs.wsj.com
 blog.system76.com
-blogs.zdnet.com
 blog.thunderbird.net
 blog.timescale.com
 blog.torproject.org
@@ -466,21 +433,54 @@ blog.twitter.com
 blog.uber.com
 blog.udacity.com
 blog.unity.com
-blog.usejournal.com
 blog.us.playstation.com
+blog.usejournal.com
 blog.waymo.com
 blog.westerndigital.com
 blog.whatsapp.com
 blog.wikimedia.fr
 blog.wikimedia.org
 blog.wired.com
-blog.wolframalpha.com
 blog.wolfram.com
+blog.wolframalpha.com
 blog.ycombinator.com
 blog.youtube
 blog.zoom.us
 blog.zulip.com
 blog.zulip.org
+blogs.adobe.com
+blogs.akamai.com
+blogs.atlassian.com
+blogs.bl.uk
+blogs.discovermagazine.com
+blogs.dropbox.com
+blogs.gnome.org
+blogs.harvard.edu
+blogs.hbr.org
+blogs.igalia.com # software-company blog with multiple authors
+blogs.janestreet.com
+blogs.jetbrains.com
+blogs.law.harvard.edu
+blogs.lse.ac.uk
+blogs.microsoft.com/blog
+blogs.msdn.microsoft.com/dotnet
+blogs.nature.com
+blogs.nvidia.com
+blogs.office.com
+blogs.oracle.com
+blogs.reuters.com
+blogs.sciencemag.org
+blogs.scientificamerican.com
+blogs.skype.com
+blogs.smithsonianmag.com
+blogs.sun.com
+blogs.suntimes.com
+blogs.technet.com
+blogs.valvesoftware.com
+blogs.vmware.com
+blogs.windows.com
+blogs.wsj.com
+blogs.zdnet.com
 bloomberg.github.io
 bloombergquint.com
 bloombergview.com
@@ -502,23 +502,23 @@ bropages.org # collaborative developer documentation
 browsergate.eu
 bsky.app
 bsky.social
-bugsappleloves.com
 bugs.chromium.org
 bugs.debian.org
 bugs.launchpad.net
+bugsappleloves.com
 bugzilla.mozilla.org
 buildkite.com
 bun.com
-bunny.net # company website and blog
 bun.sh
+bunny.net # company website and blog
 businessinsider.com.au
 businessweek.com
 businesswire.com
 busy.bar
 buzzfeednews.com
 c2.com
-c3.handmade.network # collaborative programming-language project
 c3-lang.org # programming-language project
+c3.handmade.network # collaborative programming-language project
 c4isrnet.com # defense technology publication
 cacm.acm.org
 caimito.net
@@ -558,27 +558,27 @@ city-journal.org
 citylab.com
 civai.org
 cjr.org
-claudecodecamp.com
 claude.com
+claudecodecamp.com
 cleantechnica.com
 clickhouse.com
 clicks.tech
 clojure.org
-cloudflarestatus.com
 cloud.google.com
+cloudflarestatus.com
 cloudplatform.googleblog.com
 cmu.edu # university
 cnx-software.com
 cockroachlabs.com
-codeberg.org
 code.claude.com
 code.facebook.com
 code.fb.com
 code.ffmpeg.org
 code.org # nonprofit open-source education organization
+code.visualstudio.com
+codeberg.org
 codepen.io
 coderwall.com
-code.visualstudio.com
 coffeescript.org # open-source programming-language project
 cohost.org
 coindesk.com
@@ -616,15 +616,15 @@ crunchydata.com
 cryptome.org
 crystal-lang.org
 crystalverse.com
+cs.cornell.edu/courses
+cs.unc.edu/~stotts
+cs.utexas.edu
 csc.gov.sg # government technology organization
 csclub.uwaterloo.ca # university computing club
-cs.cornell.edu/courses
 csmonitor.com
 csoonline.com
 css-tricks.com
-cs.unc.edu/~stotts
 csunplugged.org # collaborative computer-science education project
-cs.utexas.edu
 csvbase.com
 ctvnews.ca
 curl.se
@@ -634,9 +634,9 @@ cve.org # industry program website, not a blog
 cyberinsider.com
 cyberlaw.stanford.edu
 cybernews.com
+daily.jstor.org
 dailycal.org # student newspaper with multiple authors
 dailydot.com
-daily.jstor.org
 dailynous.com
 dallasnews.com
 damninteresting.com
@@ -659,6 +659,7 @@ defector.com
 deflock.org # no accessible written blog content
 deno.com
 deno.land
+dev.to
 devblogs.microsoft.com/blog
 devblogs.microsoft.com/commandline
 devblogs.microsoft.com/dotnet
@@ -672,13 +673,12 @@ developer.chrome.com
 developer.ibm.com
 developer.mozilla.org
 developer.nvidia.com
+developer.yahoo.com
+developer.yahoo.net
 developers.cloudflare.com
 developers.facebook.com
 developers.googleblog.com
 developers.redhat.com
-developer.yahoo.com
-developer.yahoo.net
-dev.to
 dexerto.com # newsroom with multiple authors
 digest.bps.org.uk
 digiday.com
@@ -693,12 +693,12 @@ discussions.apple.com
 distill.pub
 distrowatch.com
 django-cms.org # open-source software project
-djangoproject.com
 django-rest-framework.org # open-source software project
+djangoproject.com
 dl.acm.org
 dlang.org
-dmarcchecker.app
 dm.hn
+dmarcchecker.app
 docker.com
 docs.python.org
 documentcloud.org
@@ -726,19 +726,19 @@ echarts.apache.org
 eclecticlight.co
 eclipse.org # open-source software foundation
 economics.mit.edu # university economics department
-edgedb.com
 edge.org
+edgedb.com
 edition.cnn.com
-editorconfig.org # open-source standards project
 editor.p5js.org
+editorconfig.org # open-source standards project
 eetimes.com
 eff.org
 elastic.co
 electrek.co
 electronics.stackexchange.com
 electronjs.org # open-source software project
-elementaryos.org # open-source operating-system project
 element.io
+elementaryos.org # open-source operating-system project
 elixir-lang.org
 elm-lang.org
 elysian.press
@@ -746,13 +746,13 @@ emacsconf.org # open-source community conference
 emacssurvey.org # open-source community project
 enclose.horse
 energy.gov
+eng.lyft.com
+eng.uber.com
 engineering.fb.com
 engineering.shopify.com
 english.elpais.com
 english.kyodonews.net
 english.stackexchange.com
-eng.lyft.com
-eng.uber.com
 ente.com # software company
 entrepreneur.venturebeat.com
 environment.ec.europa.eu
@@ -763,8 +763,8 @@ equinox.space
 erlang.org
 esa.int
 eslint.org # open-source software project
-esolangs.org # collaborative programming-language wiki
 eso.org
+esolangs.org # collaborative programming-language wiki
 esquire.com
 etherpad.com
 ethz.ch
@@ -783,6 +783,8 @@ expression.fire.org # Foundation for Individual Rights and Expression publicatio
 expressjs.com # open-source software project
 extism.org # open-source software project
 extremetech.com
+f-droid.org
+f-secure.com
 facebook.github.io
 factorcode.org # open-source programming-language project
 factorio.com
@@ -793,15 +795,14 @@ fastcolabs.com
 fastcompany.com
 fastly.com
 fastmail.com
-f-droid.org
 fedoramagazine.org
 fedoraproject.org # open-source Linux project
 fermatslibrary.com
 ferrari.com
 ferrous-systems.com
 feynmanlectures.caltech.edu
-ffmpegbyexample.com
 ffmpeg.org
+ffmpegbyexample.com
 fieggen.com # site explicitly says it is not a blog
 fightchatcontrol.eu
 figma.com
@@ -831,15 +832,14 @@ foxbusiness.com
 frame.work
 freebsd.org
 freecodecamp.org # nonprofit open-source education organization
-freedombox.org # open-source software project
-freedom.press
 freedom-to-tinker.com
+freedom.press
+freedombox.org # open-source software project
 freedos.org # open-source operating-system project
 freenetproject.org # open-source software project
 freethink.com
 frontiersin.org
 fs.blog
-f-secure.com
 fsf.org
 fullstackeconomics.com
 fundingsimulator.com
@@ -865,11 +865,11 @@ gigaom.com
 gijn.org
 gimp.org
 gist.github.com
-github.blog
-githubengineering.com
-github.github.com
-githubstatus.com
 git.kernel.org
+github.blog
+github.github.com
+githubengineering.com
+githubstatus.com
 gitlab.com
 gitlab.freedesktop.org
 giza.mused.org
@@ -881,20 +881,20 @@ gnuhealth.org # open-source health-software project
 gnunet.org # open-source networking project
 gnupg.org # open-source cryptography project
 gnuradio.org # open-source software project
-godbolt.org # collaborative compiler-explorer project
 go.dev
+godbolt.org # collaborative compiler-explorer project
 godotengine.org
 gokrazy.org # open-source operating-system project
 golang.org
 goodnewsnetwork.org
+google-opensource.blogspot.com
+google.github.io
 googleappengine.blogspot.com
 googleblog.blogspot.com
 googlecloudplatform.blogspot.com
 googlecode.blogspot.com
 googledevelopers.blogspot.com
-google.github.io
 googleonlinesecurity.blogspot.com
-google-opensource.blogspot.com
 googleprojectzero.blogspot.com
 googleresearch.blogspot.com
 googlesystem.blogspot.com
@@ -914,6 +914,7 @@ groq.com
 gsb.stanford.edu
 guru3d.com
 gutenberg.org
+h-online.com
 haaretz.com
 habr.com
 hachyderm.io
@@ -949,7 +950,6 @@ hindenburgresearch.com
 historytoday.com
 home-assistant.io
 home.cern
-h-online.com
 hopkinsmedicine.org
 hothardware.com
 howtogeek.com
@@ -958,6 +958,8 @@ httpie.io
 huggingface.co
 humblebundle.com
 hyperallergic.com
+i.gizmodo.com
+i.imgur.com
 iana.org # Internet standards organization
 ibtimes.co.uk
 icq.com
@@ -967,8 +969,6 @@ ieeexplore.ieee.org
 ifixit.com
 ifixit.org
 iflscience.com
-i.gizmodo.com
-i.imgur.com
 iism.org
 ij.org
 imgur.com
@@ -1036,8 +1036,8 @@ kaggle.com # data-science platform and company
 kagi.com
 keepandroidopen.org
 keepassxc.org # open-source software project
-kernelnewbies.org # Linux community organization
 kernel.org # Linux kernel infrastructure
+kernelnewbies.org # Linux community organization
 keybase.io
 keycloak.org # open-source software project
 khanacademy.org
@@ -1063,8 +1063,8 @@ lareviewofbooks.org
 latent.space
 lavabit.com
 lawfaremedia.org
-learningmusic.ableton.com
 learn.microsoft.com
+learningmusic.ableton.com
 lesnumeriques.com
 lesswrong.com
 letsdatascience.com
@@ -1101,23 +1101,28 @@ loworbitsecurity.com
 lowtechmagazine.com
 lrb.co.uk
 lttlabs.com # company research and engineering site
-luajit.org # open-source software project
 lua.org # open-source programming-language project
+luajit.org # open-source software project
 lumon-industries.com
 lunasec.io
 lux.camera
 lwn.net
+m.imgur.com
+m.nautil.us
+m.signalvnoise.com
+m.theatlantic.com
+m.youtube.com
 m6n.io
 machinelearning.apple.com
 macrumors.com
 macstories.net
 macworld.com
 mail-archive.com
-mailarchive.ietf.org
-mailman.nginx.org
 mail.mozilla.org
 mail.openjdk.java.net
 mail.python.org
+mailarchive.ietf.org
+mailman.nginx.org
 mainichi.jp
 makezine.com
 malus.sh
@@ -1139,28 +1144,27 @@ matplotlib.org # open-source software project
 matrix.org
 maxsiedentopf.com
 mcsweeneys.net
+med.stanford.edu
 media.ccc.de
 mediaite.com
 medicalxpress.com
 medium.freecodecamp.com
 medium.freecodecamp.org
 medrxiv.org
-med.stanford.edu
 melmagazine.com
 mentalfloss.com
 mercurial-scm.org # open-source software project
 mercurynews.com
 messenger.abeto.co
 meta.com
-metaphysic.ai
 meta.stackexchange.com
-metastatus.com
 meta.wikimedia.org
+metaphysic.ai
+metastatus.com
 meteor.com
 micropython.org # open-source software project
 microsoft.github.io
 midjourney.com # company website and blog
-m.imgur.com
 mimo.xiaomi.com # Xiaomi team website and blog
 mindgard.ai # cybersecurity company
 minds.md
@@ -1168,7 +1172,6 @@ missionlocal.org
 mistral.ai
 mitpress.mit.edu
 mixergy.com
-m.nautil.us
 mobile.nytimes.com
 mobile.reuters.com
 modal.com # software company
@@ -1190,17 +1193,14 @@ moz.com
 mozilla.org
 mpv.io
 msdn.microsoft.com
-m.signalvnoise.com
 msnbc.msn.com
 mtgox.com
-m.theatlantic.com
 muckrock.com
 mullvad.net
 musescore.org # open-source music-notation project
 mutt.org # open-source email software project
-mybricklog.com
 my.opera.com
-m.youtube.com
+mybricklog.com
 nakedsecurity.sophos.com
 nand2tetris.org # collaborative computer-science project
 nasdaq.com
@@ -1224,20 +1224,20 @@ newatlas.com
 newpipe.net
 newrepublic.com
 news.artnet.com
-newscientist.com
 news.cornell.edu
 news.microsoft.com
 news.mit.edu
 news.nationalgeographic.com
 news.northwestern.edu
+news.sky.com
+news.stanford.edu
+news.umich.edu
+news.ycombinator.com
+newscientist.com
 newsoffice.mit.edu
 newsroom.fb.com
 newsroom.intel.com
-news.sky.com
-news.stanford.edu
 newstatesman.com
-news.umich.edu
-news.ycombinator.com
 nextgov.com
 nextjs.org
 nextplatform.com
@@ -1264,9 +1264,9 @@ notepad-plus-plus.org
 notion.so
 novehiclesinthepark.com
 noyb.eu
+np.reddit.com
 nplusonemag.com
 npmjs.com
-np.reddit.com
 nrk.no
 numerique.gouv.fr
 numpy.org # open-source software project
@@ -1290,11 +1290,13 @@ ollama.ai
 ollama.com
 omegle.com
 omgubuntu.co.uk
+on.ft.com
 one-from-nippon.ghost.io
 onezero.medium.com
-on.ft.com
-onlinelibrary.wiley.com
 online.wsj.com
+onlinelibrary.wiley.com
+open-std.org
+open-web-advocacy.org
 openai.com
 openai.github.io
 openbsd.org
@@ -1313,10 +1315,8 @@ opensource.apple.com
 opensource.com
 opensource.googleblog.com
 openssl.org
-open-std.org
 opentf.org
 openwall.com
-open-web-advocacy.org
 operating-system-in-1000-lines.vercel.app
 opinionator.blogs.nytimes.com
 oregonlive.com
@@ -1349,9 +1349,9 @@ pew.org
 pewresearch.org
 phind.com
 phoronix.com
+phys.org
 physics.stackexchange.com
 physicstoday.scitation.org
-phys.org
 pikimov.com
 pine64.org
 pinecone.io
@@ -1389,12 +1389,12 @@ privateinternetaccess.com
 programmers.stackexchange.com
 promptarmor.com
 propublica.org
-prospectmagazine.co.uk
 prospect.org
+prospectmagazine.co.uk
 protocol.com
 protomaps.com
-protonmail.com
 proton.me
+protonmail.com
 psmag.com
 psyche.co
 psypost.org
@@ -1455,8 +1455,8 @@ restoreprivacy.com
 rethinkdb.com
 retool.com
 retractionwatch.com
-retrocomputing.stackexchange.com
 retro.social
+retrocomputing.stackexchange.com
 revolt.chat
 rfc-editor.org
 riffusion.com
@@ -1485,13 +1485,13 @@ scala-lang.org
 scanalyst.fourmilab.ch
 scanofthemonth.com
 sciam.com
+science.org
+science.sciencemag.org
 sciencealert.com
 scienceblogs.com
 sciencebulletin.org
 scienceclock.com
 sciencenews.org
-science.org
-science.sciencemag.org
 scienceswitch.com
 scientificamerican.com
 scikit-learn.org # open-source software project
@@ -1631,20 +1631,20 @@ tanstack.com
 taskandpurpose.com # news publication
 taskwarrior.org # open-source software project
 teamblind.com
+tech.dropbox.com
+tech.fortune.cnn.com
+tech.mit.edu
+tech.supercarblondie.com # company publication
 techblog.netflix.com
 techcommunity.microsoft.com
 techdirt.com
-tech.dropbox.com
 techemails.com
-tech.fortune.cnn.com
 techinasia.com
-tech.mit.edu
 technologyreview.com
 techpolicy.press # policy publication with multiple authors
 techreport.com
 techrepublic.com
 techspot.com
-tech.supercarblondie.com # company publication
 techxplore.com
 telegram.org
 terminal.shop
@@ -1653,6 +1653,10 @@ teslamotors.com
 testing.gimp.org
 texasmonthly.com
 text.npr.org
+the-decoder.com # publication with multiple authors
+the-independent.com # newspaper with multiple authors
+the-scientist.com
+the-tls.co.uk
 theage.com.au
 theamericanscholar.org
 theatlanticwire.com
@@ -1662,7 +1666,6 @@ thebullshitmachines.com
 thecut.com
 thedailybeast.com
 thedailywtf.com
-the-decoder.com # publication with multiple authors
 thedrive.com
 thedriven.io
 thefp.com
@@ -1670,7 +1673,6 @@ thegamer.com # gaming publication with multiple authors
 thegradient.pub
 thehill.com
 thehustle.co
-the-independent.com # newspaper with multiple authors
 theinformation.com
 theins.ru
 theintercept.com
@@ -1693,13 +1695,11 @@ thepiratebay.org
 thepiratebay.se
 thereader.mitpress.mit.edu
 therecord.media
-theregister.com
 theregister.co.uk
-the-scientist.com
+theregister.com
 thestar.com
 thethingsnetwork.org # open-source IoT organization
 thetimes.com
-the-tls.co.uk
 thewalrus.ca
 theweek.com
 thewire.in
@@ -1747,9 +1747,9 @@ ubicloud.com
 ubuntu.com
 ucsf.edu
 uk.businessinsider.com
-ukrainetoday.org
 uk.reuters.com
 uk.techcrunch.com
+ukrainetoday.org
 undark.org
 undeadly.org
 unherd.com
@@ -1764,8 +1764,8 @@ user8.bearblog.dev # no written blog content
 userinyerface.com
 usni.org
 uspirg.org
-uxdesign.cc
 ux.stackexchange.com
+uxdesign.cc
 v8.dev
 v8project.blogspot.com
 val.town
@@ -1792,16 +1792,16 @@ waymo.com
 wbur.org
 wccftech.com
 web.archive.org
-webassembly.org # open web-standards organization
-webbtelescope.org
-webcache.googleusercontent.com
 web.dev
-webkit.org
-weblog.rubyonrails.org
 web.mit.edu/jemorris
 web.mit.edu/nelsonr
 web.mit.edu/newsoffice
 web.stanford.edu/class
+webassembly.org # open web-standards organization
+webbtelescope.org
+webcache.googleusercontent.com
+webkit.org
+weblog.rubyonrails.org
 weforum.org
 well.blogs.nytimes.com
 wesnoth.org # open-source game project
@@ -1826,11 +1826,11 @@ worldsensorium.com
 wpvip.com # company website and blog
 writefreely.org # open-source publishing project
 writing.exchange
-www3.nhk.or.jp
 www-cdn.anthropic.com
+www3.nhk.or.jp
 x.ai # AI company
-xcancel.com
 x.com
+xcancel.com
 xconomy.com
 xda-developers.com
 xiph.org
