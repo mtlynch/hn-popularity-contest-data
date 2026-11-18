@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 This script validates the domains-meta.csv file according to the following rules:
+- All line endings match the header's line ending
 - If a bio exists for a row, it is no more than MAX_BIO_LENGTH characters
 - If topics exist for a row, they cannot contain more than MAX_TOPICS_COUNT comma-separated values
 - No single topic may be longer than MAX_TOPIC_LENGTH characters
@@ -24,6 +25,16 @@ CSV_PATH = 'data/domains-meta.csv'
 def validate_domains_meta():
     """Read the CSV file and validate according to the rules."""
     validation_errors = []
+
+    # Preserve line endings so mixed LF, CRLF, or CR endings are detectable.
+    with open(CSV_PATH, 'r', encoding='utf-8', newline='') as csv_file:
+        expected_ending = None
+        for line_num, line in enumerate(csv_file, start=1):
+            ending = line[len(line.rstrip('\r\n')):]
+            if line_num == 1:
+                expected_ending = ending
+            elif ending and ending != expected_ending:
+                validation_errors.append(f"{CSV_PATH}:{line_num} - Inconsistent line ending: expected {expected_ending!r}, got {ending!r}")
 
     # Define the expected header
     expected_header = ['domain', 'author name', 'bio', 'topics']
