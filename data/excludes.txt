@@ -2037,6 +2037,7 @@ twitlonger.com
 twitterwebviewer.com # social-media viewer, not a publication
 twz.com
 typelit.io
+typesafe.ai # AI company
 typescriptlang.org # open-source programming-language project
 uber.com
 ubicloud.com
